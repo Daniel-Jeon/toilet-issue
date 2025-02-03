@@ -1,0 +1,9803 @@
+[
+ {
+  "NUM": "1",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A01",
+  "STIN_NM": "서울역"
+ },
+ {
+  "NUM": "2",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A02",
+  "STIN_NM": "공덕역"
+ },
+ {
+  "NUM": "3",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A03",
+  "STIN_NM": "홍대입구역"
+ },
+ {
+  "NUM": "4",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A04",
+  "STIN_NM": "디지털미디어시티역"
+ },
+ {
+  "NUM": "5",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A042",
+  "STIN_NM": "마곡나루역"
+ },
+ {
+  "NUM": "6",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A05",
+  "STIN_NM": "김포공항역"
+ },
+ {
+  "NUM": "7",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A06",
+  "STIN_NM": "계양역"
+ },
+ {
+  "NUM": "8",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A07",
+  "STIN_NM": "검암역"
+ },
+ {
+  "NUM": "9",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A071",
+  "STIN_NM": "청라국제도시역"
+ },
+ {
+  "NUM": "10",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A072",
+  "STIN_NM": "영종역"
+ },
+ {
+  "NUM": "11",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A08",
+  "STIN_NM": "운서역"
+ },
+ {
+  "NUM": "12",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A09",
+  "STIN_NM": "공항화물청사역"
+ },
+ {
+  "NUM": "13",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A10",
+  "STIN_NM": "인천공항1터미널역"
+ },
+ {
+  "NUM": "14",
+  "RAIL_OPR_ISTT_CD": "AR",
+  "RAIL_OPR_ISTT_NM": "공항철도주식회사",
+  "LN_CD": "A1",
+  "LN_NM": "공항철도",
+  "STIN_CD": "A11",
+  "STIN_NM": "인천공항2터미널역"
+ },
+ {
+  "NUM": "15",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4305",
+  "STIN_NM": "논현역"
+ },
+ {
+  "NUM": "16",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4306",
+  "STIN_NM": "신논현역"
+ },
+ {
+  "NUM": "17",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4307",
+  "STIN_NM": "강남역"
+ },
+ {
+  "NUM": "18",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4308",
+  "STIN_NM": "양재(서초구청)역"
+ },
+ {
+  "NUM": "19",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4309",
+  "STIN_NM": "양재시민의숲(매헌)역"
+ },
+ {
+  "NUM": "20",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4310",
+  "STIN_NM": "청계산입구역"
+ },
+ {
+  "NUM": "21",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4311",
+  "STIN_NM": "판교(판교테크노밸리)역"
+ },
+ {
+  "NUM": "22",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4312",
+  "STIN_NM": "정자역"
+ },
+ {
+  "NUM": "23",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4316",
+  "STIN_NM": "성복역"
+ },
+ {
+  "NUM": "24",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4317",
+  "STIN_NM": "상현역"
+ },
+ {
+  "NUM": "25",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4318",
+  "STIN_NM": "광교중앙(아주대)역"
+ },
+ {
+  "NUM": "26",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "4319",
+  "STIN_NM": "광교(경기대)역"
+ },
+ {
+  "NUM": "27",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "D04",
+  "STIN_NM": "신사역"
+ },
+ {
+  "NUM": "28",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "D13",
+  "STIN_NM": "미금(분당서울대병원)역"
+ },
+ {
+  "NUM": "29",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "D14",
+  "STIN_NM": "동천역"
+ },
+ {
+  "NUM": "30",
+  "RAIL_OPR_ISTT_CD": "DX",
+  "RAIL_OPR_ISTT_NM": "네오트랜스주식회사",
+  "LN_CD": "D1",
+  "LN_NM": "신분당선",
+  "STIN_CD": "D15",
+  "STIN_NM": "수지구청역"
+ },
+ {
+  "NUM": "31",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y110",
+  "STIN_NM": "기흥(백남준아트센터)역"
+ },
+ {
+  "NUM": "32",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y111",
+  "STIN_NM": "강남대역"
+ },
+ {
+  "NUM": "33",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y112",
+  "STIN_NM": "지석역"
+ },
+ {
+  "NUM": "34",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y113",
+  "STIN_NM": "어정역"
+ },
+ {
+  "NUM": "35",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y114",
+  "STIN_NM": "동백역"
+ },
+ {
+  "NUM": "36",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y115",
+  "STIN_NM": "초당역"
+ },
+ {
+  "NUM": "37",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y116",
+  "STIN_NM": "삼가역"
+ },
+ {
+  "NUM": "38",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y117",
+  "STIN_NM": "시청·용인대역"
+ },
+ {
+  "NUM": "39",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y118",
+  "STIN_NM": "명지대역"
+ },
+ {
+  "NUM": "40",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y119",
+  "STIN_NM": "김량장역"
+ },
+ {
+  "NUM": "41",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y120",
+  "STIN_NM": "운동장·송담대역"
+ },
+ {
+  "NUM": "42",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y121",
+  "STIN_NM": "고진역"
+ },
+ {
+  "NUM": "43",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y122",
+  "STIN_NM": "보평역"
+ },
+ {
+  "NUM": "44",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y123",
+  "STIN_NM": "둔전역"
+ },
+ {
+  "NUM": "45",
+  "RAIL_OPR_ISTT_CD": "EV",
+  "RAIL_OPR_ISTT_NM": "용인경량전철주식회사",
+  "LN_CD": "E1",
+  "LN_NM": "용인에버라인",
+  "STIN_CD": "Y124",
+  "STIN_NM": "전대·에버랜드역"
+ },
+ {
+  "NUM": "46",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G100",
+  "STIN_NM": "양촌역"
+ },
+ {
+  "NUM": "47",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G101",
+  "STIN_NM": "구래역"
+ },
+ {
+  "NUM": "48",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G102",
+  "STIN_NM": "마산역"
+ },
+ {
+  "NUM": "49",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G103",
+  "STIN_NM": "장기역"
+ },
+ {
+  "NUM": "50",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G104",
+  "STIN_NM": "운양역"
+ },
+ {
+  "NUM": "51",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G105",
+  "STIN_NM": "걸포북변역"
+ },
+ {
+  "NUM": "52",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G106",
+  "STIN_NM": "사우(김포시청)역"
+ },
+ {
+  "NUM": "53",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G107",
+  "STIN_NM": "풍무역"
+ },
+ {
+  "NUM": "54",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G108",
+  "STIN_NM": "고촌역"
+ },
+ {
+  "NUM": "55",
+  "RAIL_OPR_ISTT_CD": "GM",
+  "RAIL_OPR_ISTT_NM": "김포골드라인운영주식회사",
+  "LN_CD": "G1",
+  "LN_NM": "김포골드라인",
+  "STIN_CD": "G109",
+  "STIN_NM": "김포공항역"
+ },
+ {
+  "NUM": "56",
+  "RAIL_OPR_ISTT_CD": "IA",
+  "RAIL_OPR_ISTT_NM": "인천국제공항공사",
+  "LN_CD": "M1",
+  "LN_NM": "자기부상",
+  "STIN_CD": "0101",
+  "STIN_NM": "인천공항1터미널역"
+ },
+ {
+  "NUM": "57",
+  "RAIL_OPR_ISTT_CD": "IA",
+  "RAIL_OPR_ISTT_NM": "인천국제공항공사",
+  "LN_CD": "M1",
+  "LN_NM": "자기부상",
+  "STIN_CD": "0102",
+  "STIN_NM": "장기주차장역"
+ },
+ {
+  "NUM": "58",
+  "RAIL_OPR_ISTT_CD": "IA",
+  "RAIL_OPR_ISTT_NM": "인천국제공항공사",
+  "LN_CD": "M1",
+  "LN_NM": "자기부상",
+  "STIN_CD": "0103",
+  "STIN_NM": "합동청사역"
+ },
+ {
+  "NUM": "59",
+  "RAIL_OPR_ISTT_CD": "IA",
+  "RAIL_OPR_ISTT_NM": "인천국제공항공사",
+  "LN_CD": "M1",
+  "LN_NM": "자기부상",
+  "STIN_CD": "0104",
+  "STIN_NM": "파라다이스시티역"
+ },
+ {
+  "NUM": "60",
+  "RAIL_OPR_ISTT_CD": "IA",
+  "RAIL_OPR_ISTT_NM": "인천국제공항공사",
+  "LN_CD": "M1",
+  "LN_NM": "자기부상",
+  "STIN_CD": "0105",
+  "STIN_NM": "워터파크역"
+ },
+ {
+  "NUM": "61",
+  "RAIL_OPR_ISTT_CD": "IA",
+  "RAIL_OPR_ISTT_NM": "인천국제공항공사",
+  "LN_CD": "M1",
+  "LN_NM": "자기부상",
+  "STIN_CD": "0106",
+  "STIN_NM": "용유역"
+ },
+ {
+  "NUM": "62",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "751",
+  "STIN_NM": "까치울역"
+ },
+ {
+  "NUM": "63",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "752",
+  "STIN_NM": "부천종합운동장역"
+ },
+ {
+  "NUM": "64",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "753",
+  "STIN_NM": "춘의역"
+ },
+ {
+  "NUM": "65",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "754",
+  "STIN_NM": "신중동역"
+ },
+ {
+  "NUM": "66",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "755",
+  "STIN_NM": "부천시청역"
+ },
+ {
+  "NUM": "67",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "756",
+  "STIN_NM": "상동역"
+ },
+ {
+  "NUM": "68",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "757",
+  "STIN_NM": "삼산체육관역"
+ },
+ {
+  "NUM": "69",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "758",
+  "STIN_NM": "굴포천역"
+ },
+ {
+  "NUM": "70",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "759",
+  "STIN_NM": "부평구청역"
+ },
+ {
+  "NUM": "71",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "760",
+  "STIN_NM": "산곡역"
+ },
+ {
+  "NUM": "72",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "761",
+  "STIN_NM": "석남(거북시장)역"
+ },
+ {
+  "NUM": "73",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "110",
+  "STIN_NM": "계양역"
+ },
+ {
+  "NUM": "74",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "111",
+  "STIN_NM": "귤현역"
+ },
+ {
+  "NUM": "75",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "112",
+  "STIN_NM": "박촌역"
+ },
+ {
+  "NUM": "76",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "113",
+  "STIN_NM": "임학역"
+ },
+ {
+  "NUM": "77",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "114",
+  "STIN_NM": "계산역"
+ },
+ {
+  "NUM": "78",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "115",
+  "STIN_NM": "경인교대입구역"
+ },
+ {
+  "NUM": "79",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "116",
+  "STIN_NM": "작전역"
+ },
+ {
+  "NUM": "80",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "117",
+  "STIN_NM": "갈산역"
+ },
+ {
+  "NUM": "81",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "118",
+  "STIN_NM": "부평구청역"
+ },
+ {
+  "NUM": "82",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "119",
+  "STIN_NM": "부평시장역"
+ },
+ {
+  "NUM": "83",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "120",
+  "STIN_NM": "부평역"
+ },
+ {
+  "NUM": "84",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "121",
+  "STIN_NM": "동수역"
+ },
+ {
+  "NUM": "85",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "122",
+  "STIN_NM": "부평삼거리역"
+ },
+ {
+  "NUM": "86",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "123",
+  "STIN_NM": "간석오거리역"
+ },
+ {
+  "NUM": "87",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "124",
+  "STIN_NM": "인천시청역"
+ },
+ {
+  "NUM": "88",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "125",
+  "STIN_NM": "예술회관역"
+ },
+ {
+  "NUM": "89",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "126",
+  "STIN_NM": "인천터미널역"
+ },
+ {
+  "NUM": "90",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "127",
+  "STIN_NM": "문학경기장역"
+ },
+ {
+  "NUM": "91",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "128",
+  "STIN_NM": "선학역"
+ },
+ {
+  "NUM": "92",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "129",
+  "STIN_NM": "신연수역"
+ },
+ {
+  "NUM": "93",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "130",
+  "STIN_NM": "원인재역"
+ },
+ {
+  "NUM": "94",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "131",
+  "STIN_NM": "동춘역"
+ },
+ {
+  "NUM": "95",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "132",
+  "STIN_NM": "동막역"
+ },
+ {
+  "NUM": "96",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "133",
+  "STIN_NM": "캠퍼스타운역"
+ },
+ {
+  "NUM": "97",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "134",
+  "STIN_NM": "테크노파크역"
+ },
+ {
+  "NUM": "98",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "135",
+  "STIN_NM": "지식정보단지역"
+ },
+ {
+  "NUM": "99",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "136",
+  "STIN_NM": "인천대입구역"
+ },
+ {
+  "NUM": "100",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "137",
+  "STIN_NM": "센트럴파크역"
+ },
+ {
+  "NUM": "101",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "138",
+  "STIN_NM": "국제업무지구역"
+ },
+ {
+  "NUM": "102",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I1",
+  "LN_NM": "인천1호선",
+  "STIN_CD": "139",
+  "STIN_NM": "송도달빛축제공원역"
+ },
+ {
+  "NUM": "103",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "201",
+  "STIN_NM": "검단오류역"
+ },
+ {
+  "NUM": "104",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "202",
+  "STIN_NM": "왕길역"
+ },
+ {
+  "NUM": "105",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "203",
+  "STIN_NM": "검단사거리역"
+ },
+ {
+  "NUM": "106",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "204",
+  "STIN_NM": "마전역"
+ },
+ {
+  "NUM": "107",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "205",
+  "STIN_NM": "완정역"
+ },
+ {
+  "NUM": "108",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "206",
+  "STIN_NM": "독정역"
+ },
+ {
+  "NUM": "109",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "207",
+  "STIN_NM": "검암역"
+ },
+ {
+  "NUM": "110",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "208",
+  "STIN_NM": "검바위역"
+ },
+ {
+  "NUM": "111",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "209",
+  "STIN_NM": "아시아드경기장역"
+ },
+ {
+  "NUM": "112",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "210",
+  "STIN_NM": "서구청역"
+ },
+ {
+  "NUM": "113",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "211",
+  "STIN_NM": "가정역"
+ },
+ {
+  "NUM": "114",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "212",
+  "STIN_NM": "가정중앙시장역"
+ },
+ {
+  "NUM": "115",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "213",
+  "STIN_NM": "석남역"
+ },
+ {
+  "NUM": "116",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "214",
+  "STIN_NM": "서부여성회관역"
+ },
+ {
+  "NUM": "117",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "215",
+  "STIN_NM": "인천가좌역"
+ },
+ {
+  "NUM": "118",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "216",
+  "STIN_NM": "가재울역"
+ },
+ {
+  "NUM": "119",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "217",
+  "STIN_NM": "주안국가산단역"
+ },
+ {
+  "NUM": "120",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "218",
+  "STIN_NM": "주안역"
+ },
+ {
+  "NUM": "121",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "219",
+  "STIN_NM": "시민공원역"
+ },
+ {
+  "NUM": "122",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "220",
+  "STIN_NM": "석바위시장역"
+ },
+ {
+  "NUM": "123",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "221",
+  "STIN_NM": "인천시청역"
+ },
+ {
+  "NUM": "124",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "222",
+  "STIN_NM": "석천사거리역"
+ },
+ {
+  "NUM": "125",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "223",
+  "STIN_NM": "모래내시장역"
+ },
+ {
+  "NUM": "126",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "224",
+  "STIN_NM": "만수역"
+ },
+ {
+  "NUM": "127",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "225",
+  "STIN_NM": "남동구청역"
+ },
+ {
+  "NUM": "128",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "226",
+  "STIN_NM": "인천대공원역"
+ },
+ {
+  "NUM": "129",
+  "RAIL_OPR_ISTT_CD": "IC",
+  "RAIL_OPR_ISTT_NM": "인천교통공사",
+  "LN_CD": "I2",
+  "LN_NM": "인천2호선",
+  "STIN_CD": "227",
+  "STIN_NM": "운연역"
+ },
+ {
+  "NUM": "130",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0104",
+  "STIN_NM": "지행역"
+ },
+ {
+  "NUM": "131",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0114",
+  "STIN_NM": "도봉역"
+ },
+ {
+  "NUM": "132",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0116",
+  "STIN_NM": "창동역"
+ },
+ {
+  "NUM": "133",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0118",
+  "STIN_NM": "월계역"
+ },
+ {
+  "NUM": "134",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0122",
+  "STIN_NM": "외대앞역"
+ },
+ {
+  "NUM": "135",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0137",
+  "STIN_NM": "대방역"
+ },
+ {
+  "NUM": "136",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0138",
+  "STIN_NM": "신길역"
+ },
+ {
+  "NUM": "137",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0141",
+  "STIN_NM": "덕정역"
+ },
+ {
+  "NUM": "138",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0142",
+  "STIN_NM": "구일역"
+ },
+ {
+  "NUM": "139",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0145",
+  "STIN_NM": "온수역"
+ },
+ {
+  "NUM": "140",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0146",
+  "STIN_NM": "역곡역"
+ },
+ {
+  "NUM": "141",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0150",
+  "STIN_NM": "송내역"
+ },
+ {
+  "NUM": "142",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0152",
+  "STIN_NM": "부평역"
+ },
+ {
+  "NUM": "143",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0153",
+  "STIN_NM": "성균관대역"
+ },
+ {
+  "NUM": "144",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "100-3",
+  "STIN_NM": "연천역"
+ },
+ {
+  "NUM": "145",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "100-2",
+  "STIN_NM": "전곡역"
+ },
+ {
+  "NUM": "146",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "100-1",
+  "STIN_NM": "청산역"
+ },
+ {
+  "NUM": "147",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "100",
+  "STIN_NM": "소요산역"
+ },
+ {
+  "NUM": "148",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "101",
+  "STIN_NM": "동두천역"
+ },
+ {
+  "NUM": "149",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "102",
+  "STIN_NM": "보산역"
+ },
+ {
+  "NUM": "150",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "103",
+  "STIN_NM": "동두천중앙역"
+ },
+ {
+  "NUM": "151",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "106",
+  "STIN_NM": "덕계역"
+ },
+ {
+  "NUM": "152",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "108",
+  "STIN_NM": "녹양역"
+ },
+ {
+  "NUM": "153",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "109",
+  "STIN_NM": "가능역"
+ },
+ {
+  "NUM": "154",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "110",
+  "STIN_NM": "의정부역"
+ },
+ {
+  "NUM": "155",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "111",
+  "STIN_NM": "회룡역"
+ },
+ {
+  "NUM": "156",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "112",
+  "STIN_NM": "망월사역"
+ },
+ {
+  "NUM": "157",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "113",
+  "STIN_NM": "도봉산역"
+ },
+ {
+  "NUM": "158",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "115",
+  "STIN_NM": "방학역"
+ },
+ {
+  "NUM": "159",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "117",
+  "STIN_NM": "녹천역"
+ },
+ {
+  "NUM": "160",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "120",
+  "STIN_NM": "석계역"
+ },
+ {
+  "NUM": "161",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "121",
+  "STIN_NM": "신이문역"
+ },
+ {
+  "NUM": "162",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "123",
+  "STIN_NM": "회기역"
+ },
+ {
+  "NUM": "163",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "134",
+  "STIN_NM": "남영역"
+ },
+ {
+  "NUM": "164",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "135",
+  "STIN_NM": "용산역"
+ },
+ {
+  "NUM": "165",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "136",
+  "STIN_NM": "노량진역"
+ },
+ {
+  "NUM": "166",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "139",
+  "STIN_NM": "영등포역"
+ },
+ {
+  "NUM": "167",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "140",
+  "STIN_NM": "신도림역"
+ },
+ {
+  "NUM": "168",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "143",
+  "STIN_NM": "개봉역"
+ },
+ {
+  "NUM": "169",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "144",
+  "STIN_NM": "오류동역"
+ },
+ {
+  "NUM": "170",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "147",
+  "STIN_NM": "소사역"
+ },
+ {
+  "NUM": "171",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "148",
+  "STIN_NM": "부천역"
+ },
+ {
+  "NUM": "172",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P148",
+  "STIN_NM": "명학역"
+ },
+ {
+  "NUM": "173",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "151",
+  "STIN_NM": "부개역"
+ },
+ {
+  "NUM": "174",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "153",
+  "STIN_NM": "백운역"
+ },
+ {
+  "NUM": "175",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "154",
+  "STIN_NM": "동암역"
+ },
+ {
+  "NUM": "176",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "156",
+  "STIN_NM": "주안역"
+ },
+ {
+  "NUM": "177",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "157",
+  "STIN_NM": "도화역"
+ },
+ {
+  "NUM": "178",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "158",
+  "STIN_NM": "제물포역"
+ },
+ {
+  "NUM": "179",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "159",
+  "STIN_NM": "도원역"
+ },
+ {
+  "NUM": "180",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "160",
+  "STIN_NM": "동인천역"
+ },
+ {
+  "NUM": "181",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "161",
+  "STIN_NM": "인천역"
+ },
+ {
+  "NUM": "182",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "1715",
+  "STIN_NM": "세류역"
+ },
+ {
+  "NUM": "183",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "1816",
+  "STIN_NM": "간석역"
+ },
+ {
+  "NUM": "184",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "1822",
+  "STIN_NM": "중동역"
+ },
+ {
+  "NUM": "185",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "199",
+  "STIN_NM": "광운대역"
+ },
+ {
+  "NUM": "186",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "K107",
+  "STIN_NM": "양주역"
+ },
+ {
+  "NUM": "187",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "K410",
+  "STIN_NM": "광명역"
+ },
+ {
+  "NUM": "188",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P141",
+  "STIN_NM": "구로역"
+ },
+ {
+  "NUM": "189",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P142",
+  "STIN_NM": "가산디지털단지역"
+ },
+ {
+  "NUM": "190",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P143",
+  "STIN_NM": "독산역"
+ },
+ {
+  "NUM": "191",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P144",
+  "STIN_NM": "금천구청역"
+ },
+ {
+  "NUM": "192",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P145",
+  "STIN_NM": "석수역"
+ },
+ {
+  "NUM": "193",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P146",
+  "STIN_NM": "관악역"
+ },
+ {
+  "NUM": "194",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P147",
+  "STIN_NM": "안양역"
+ },
+ {
+  "NUM": "195",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P149",
+  "STIN_NM": "금정역"
+ },
+ {
+  "NUM": "196",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P150",
+  "STIN_NM": "군포역"
+ },
+ {
+  "NUM": "197",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P151",
+  "STIN_NM": "당정역"
+ },
+ {
+  "NUM": "198",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P152",
+  "STIN_NM": "의왕역"
+ },
+ {
+  "NUM": "199",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P154",
+  "STIN_NM": "화서역"
+ },
+ {
+  "NUM": "200",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P155",
+  "STIN_NM": "수원역"
+ },
+ {
+  "NUM": "201",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P157",
+  "STIN_NM": "병점역"
+ },
+ {
+  "NUM": "202",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P157-2",
+  "STIN_NM": "서동탄역"
+ },
+ {
+  "NUM": "203",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P158",
+  "STIN_NM": "세마역"
+ },
+ {
+  "NUM": "204",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P159",
+  "STIN_NM": "오산대역"
+ },
+ {
+  "NUM": "205",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P160",
+  "STIN_NM": "오산역"
+ },
+ {
+  "NUM": "206",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P161",
+  "STIN_NM": "진위역"
+ },
+ {
+  "NUM": "207",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P162",
+  "STIN_NM": "송탄역"
+ },
+ {
+  "NUM": "208",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P163",
+  "STIN_NM": "서정리역"
+ },
+ {
+  "NUM": "209",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P164",
+  "STIN_NM": "평택지제역"
+ },
+ {
+  "NUM": "210",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P165",
+  "STIN_NM": "평택역"
+ },
+ {
+  "NUM": "211",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P166",
+  "STIN_NM": "성환역"
+ },
+ {
+  "NUM": "212",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P167",
+  "STIN_NM": "직산역"
+ },
+ {
+  "NUM": "213",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P168",
+  "STIN_NM": "두정역"
+ },
+ {
+  "NUM": "214",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P169",
+  "STIN_NM": "천안역"
+ },
+ {
+  "NUM": "215",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P170",
+  "STIN_NM": "봉명역"
+ },
+ {
+  "NUM": "216",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P171",
+  "STIN_NM": "쌍용(나사렛대)역"
+ },
+ {
+  "NUM": "217",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P172",
+  "STIN_NM": "아산역"
+ },
+ {
+  "NUM": "218",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P174",
+  "STIN_NM": "배방역"
+ },
+ {
+  "NUM": "219",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P176",
+  "STIN_NM": "온양온천역"
+ },
+ {
+  "NUM": "220",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "P177",
+  "STIN_NM": "신창(순천향대)역"
+ },
+ {
+  "NUM": "221",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "p173",
+  "STIN_NM": "탕정역"
+ },
+ {
+  "NUM": "222",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "0309",
+  "STIN_NM": "대화역"
+ },
+ {
+  "NUM": "223",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "0314",
+  "STIN_NM": "대곡역"
+ },
+ {
+  "NUM": "224",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "0315",
+  "STIN_NM": "화정역"
+ },
+ {
+  "NUM": "225",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "1948",
+  "STIN_NM": "원흥역"
+ },
+ {
+  "NUM": "226",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "310",
+  "STIN_NM": "주엽역"
+ },
+ {
+  "NUM": "227",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "311",
+  "STIN_NM": "정발산역"
+ },
+ {
+  "NUM": "228",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "312",
+  "STIN_NM": "마두역"
+ },
+ {
+  "NUM": "229",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "313",
+  "STIN_NM": "백석역"
+ },
+ {
+  "NUM": "230",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "316",
+  "STIN_NM": "원당역"
+ },
+ {
+  "NUM": "231",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "318",
+  "STIN_NM": "삼송역"
+ },
+ {
+  "NUM": "232",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "0437",
+  "STIN_NM": "대공원역"
+ },
+ {
+  "NUM": "233",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "0438",
+  "STIN_NM": "과천역"
+ },
+ {
+  "NUM": "234",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "0440",
+  "STIN_NM": "인덕원역"
+ },
+ {
+  "NUM": "235",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "0442",
+  "STIN_NM": "범계역"
+ },
+ {
+  "NUM": "236",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "0446",
+  "STIN_NM": "대야미역"
+ },
+ {
+  "NUM": "237",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "0447",
+  "STIN_NM": "반월역"
+ },
+ {
+  "NUM": "238",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "0509",
+  "STIN_NM": "정부과천청사역"
+ },
+ {
+  "NUM": "239",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "1755",
+  "STIN_NM": "한대앞역"
+ },
+ {
+  "NUM": "240",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "435",
+  "STIN_NM": "선바위역"
+ },
+ {
+  "NUM": "241",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "436",
+  "STIN_NM": "경마공원역"
+ },
+ {
+  "NUM": "242",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "441",
+  "STIN_NM": "평촌역"
+ },
+ {
+  "NUM": "243",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "444",
+  "STIN_NM": "산본역"
+ },
+ {
+  "NUM": "244",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "445",
+  "STIN_NM": "수리산역"
+ },
+ {
+  "NUM": "245",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "448",
+  "STIN_NM": "상록수역"
+ },
+ {
+  "NUM": "246",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "K252",
+  "STIN_NM": "중앙역"
+ },
+ {
+  "NUM": "247",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "K254",
+  "STIN_NM": "초지역"
+ },
+ {
+  "NUM": "248",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "K255",
+  "STIN_NM": "안산역"
+ },
+ {
+  "NUM": "249",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "K256",
+  "STIN_NM": "신길온천역"
+ },
+ {
+  "NUM": "250",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "K257",
+  "STIN_NM": "정왕역"
+ },
+ {
+  "NUM": "251",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "K258",
+  "STIN_NM": "오이도역"
+ },
+ {
+  "NUM": "252",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "P149",
+  "STIN_NM": "금정역"
+ },
+ {
+  "NUM": "253",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "k253",
+  "STIN_NM": "고잔역"
+ },
+ {
+  "NUM": "254",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "1856",
+  "STIN_NM": "수내(한국잡월드)역"
+ },
+ {
+  "NUM": "255",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "1874",
+  "STIN_NM": "오목천역"
+ },
+ {
+  "NUM": "256",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "1886",
+  "STIN_NM": "송도역"
+ },
+ {
+  "NUM": "257",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K0272",
+  "STIN_NM": "인천역"
+ },
+ {
+  "NUM": "258",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K209",
+  "STIN_NM": "청량리역"
+ },
+ {
+  "NUM": "259",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K212",
+  "STIN_NM": "압구정로데오역"
+ },
+ {
+  "NUM": "260",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K214",
+  "STIN_NM": "선정릉(한국과학창의재단)역"
+ },
+ {
+  "NUM": "261",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K215",
+  "STIN_NM": "선릉역"
+ },
+ {
+  "NUM": "262",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K219",
+  "STIN_NM": "개포동역"
+ },
+ {
+  "NUM": "263",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K222",
+  "STIN_NM": "복정(동서울대학)역"
+ },
+ {
+  "NUM": "264",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K223",
+  "STIN_NM": "가천대역"
+ },
+ {
+  "NUM": "265",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K224",
+  "STIN_NM": "태평역"
+ },
+ {
+  "NUM": "266",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K225",
+  "STIN_NM": "모란역"
+ },
+ {
+  "NUM": "267",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K228",
+  "STIN_NM": "서현역"
+ },
+ {
+  "NUM": "268",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K230",
+  "STIN_NM": "정자역"
+ },
+ {
+  "NUM": "269",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K231",
+  "STIN_NM": "미금(분당서울대병원)역"
+ },
+ {
+  "NUM": "270",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K232",
+  "STIN_NM": "오리역"
+ },
+ {
+  "NUM": "271",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K233",
+  "STIN_NM": "죽전(단국대)역"
+ },
+ {
+  "NUM": "272",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K234",
+  "STIN_NM": "보정역"
+ },
+ {
+  "NUM": "273",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K236",
+  "STIN_NM": "신갈역"
+ },
+ {
+  "NUM": "274",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K238",
+  "STIN_NM": "상갈(루터대학교)역"
+ },
+ {
+  "NUM": "275",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K239",
+  "STIN_NM": "청명역"
+ },
+ {
+  "NUM": "276",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K240",
+  "STIN_NM": "영통(경희대)역"
+ },
+ {
+  "NUM": "277",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K241",
+  "STIN_NM": "망포역"
+ },
+ {
+  "NUM": "278",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K243",
+  "STIN_NM": "수원시청(경기도문화의전당)역"
+ },
+ {
+  "NUM": "279",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K244",
+  "STIN_NM": "매교역"
+ },
+ {
+  "NUM": "280",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K245",
+  "STIN_NM": "수원역"
+ },
+ {
+  "NUM": "281",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K248",
+  "STIN_NM": "어천역"
+ },
+ {
+  "NUM": "282",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K249",
+  "STIN_NM": "야목역"
+ },
+ {
+  "NUM": "283",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K250",
+  "STIN_NM": "사리역"
+ },
+ {
+  "NUM": "284",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K251",
+  "STIN_NM": "한대앞역"
+ },
+ {
+  "NUM": "285",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K252",
+  "STIN_NM": "중앙역"
+ },
+ {
+  "NUM": "286",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K253",
+  "STIN_NM": "고잔역"
+ },
+ {
+  "NUM": "287",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K254",
+  "STIN_NM": "초지역"
+ },
+ {
+  "NUM": "288",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K255",
+  "STIN_NM": "안산역"
+ },
+ {
+  "NUM": "289",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K256",
+  "STIN_NM": "신길온천역"
+ },
+ {
+  "NUM": "290",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K257",
+  "STIN_NM": "정왕역"
+ },
+ {
+  "NUM": "291",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K258",
+  "STIN_NM": "오이도역"
+ },
+ {
+  "NUM": "292",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K260",
+  "STIN_NM": "월곶역"
+ },
+ {
+  "NUM": "293",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K261",
+  "STIN_NM": "소래포구역"
+ },
+ {
+  "NUM": "294",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K264",
+  "STIN_NM": "남동인더스파크역"
+ },
+ {
+  "NUM": "295",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K265",
+  "STIN_NM": "원인재역"
+ },
+ {
+  "NUM": "296",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K271",
+  "STIN_NM": "신포역"
+ },
+ {
+  "NUM": "297",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k210",
+  "STIN_NM": "왕십리역"
+ },
+ {
+  "NUM": "298",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k211",
+  "STIN_NM": "서울숲역"
+ },
+ {
+  "NUM": "299",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k213",
+  "STIN_NM": "강남구청역"
+ },
+ {
+  "NUM": "300",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k216",
+  "STIN_NM": "한티역"
+ },
+ {
+  "NUM": "301",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k217",
+  "STIN_NM": "도곡역"
+ },
+ {
+  "NUM": "302",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k218",
+  "STIN_NM": "구룡역"
+ },
+ {
+  "NUM": "303",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k220",
+  "STIN_NM": "대모산입구역"
+ },
+ {
+  "NUM": "304",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k221",
+  "STIN_NM": "수서역"
+ },
+ {
+  "NUM": "305",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k226",
+  "STIN_NM": "야탑역"
+ },
+ {
+  "NUM": "306",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k227",
+  "STIN_NM": "이매(성남아트센터)역"
+ },
+ {
+  "NUM": "307",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k235",
+  "STIN_NM": "구성역"
+ },
+ {
+  "NUM": "308",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k237",
+  "STIN_NM": "기흥(백남준아트센터)역"
+ },
+ {
+  "NUM": "309",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k242",
+  "STIN_NM": "매탄권선역"
+ },
+ {
+  "NUM": "310",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "K246",
+  "STIN_NM": "고색역"
+ },
+ {
+  "NUM": "311",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k259",
+  "STIN_NM": "달월역"
+ },
+ {
+  "NUM": "312",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k262",
+  "STIN_NM": "인천논현역"
+ },
+ {
+  "NUM": "313",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k263",
+  "STIN_NM": "호구포역"
+ },
+ {
+  "NUM": "314",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k266",
+  "STIN_NM": "연수역"
+ },
+ {
+  "NUM": "315",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k269",
+  "STIN_NM": "인하대역"
+ },
+ {
+  "NUM": "316",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K1",
+  "LN_NM": "수인분당",
+  "STIN_CD": "k270",
+  "STIN_NM": "숭의(인하대병원)역"
+ },
+ {
+  "NUM": "317",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "119",
+  "STIN_NM": "광운대역"
+ },
+ {
+  "NUM": "318",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "1320",
+  "STIN_NM": "대성리역"
+ },
+ {
+  "NUM": "319",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "K117",
+  "STIN_NM": "청량리역"
+ },
+ {
+  "NUM": "320",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "K118",
+  "STIN_NM": "회기역"
+ },
+ {
+  "NUM": "321",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "K119",
+  "STIN_NM": "중랑역"
+ },
+ {
+  "NUM": "322",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "K120",
+  "STIN_NM": "상봉역"
+ },
+ {
+  "NUM": "323",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "K121",
+  "STIN_NM": "망우역"
+ },
+ {
+  "NUM": "324",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P122",
+  "STIN_NM": "신내역"
+ },
+ {
+  "NUM": "325",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P123",
+  "STIN_NM": "갈매역"
+ },
+ {
+  "NUM": "326",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P124",
+  "STIN_NM": "별내(삼육대학교)역"
+ },
+ {
+  "NUM": "327",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P125",
+  "STIN_NM": "퇴계원역"
+ },
+ {
+  "NUM": "328",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P126",
+  "STIN_NM": "사릉역"
+ },
+ {
+  "NUM": "329",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P127",
+  "STIN_NM": "금곡역"
+ },
+ {
+  "NUM": "330",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P128",
+  "STIN_NM": "평내호평역"
+ },
+ {
+  "NUM": "331",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P129",
+  "STIN_NM": "천마산역"
+ },
+ {
+  "NUM": "332",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P130",
+  "STIN_NM": "마석역"
+ },
+ {
+  "NUM": "333",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P132",
+  "STIN_NM": "청평역"
+ },
+ {
+  "NUM": "334",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P133",
+  "STIN_NM": "상천(호명호수)역"
+ },
+ {
+  "NUM": "335",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P134",
+  "STIN_NM": "가평(자라섬·남이섬)역"
+ },
+ {
+  "NUM": "336",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P135",
+  "STIN_NM": "굴봉산(제이드가든)역"
+ },
+ {
+  "NUM": "337",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P136",
+  "STIN_NM": "백양리(엘리시안강촌)역"
+ },
+ {
+  "NUM": "338",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P137",
+  "STIN_NM": "강촌역"
+ },
+ {
+  "NUM": "339",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P138",
+  "STIN_NM": "김유정역"
+ },
+ {
+  "NUM": "340",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "P140",
+  "STIN_NM": "춘천(한림대)역"
+ },
+ {
+  "NUM": "341",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K2",
+  "LN_NM": "경춘",
+  "STIN_CD": "p139",
+  "STIN_NM": "남춘천(강원대)역"
+ },
+ {
+  "NUM": "342",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "0312",
+  "STIN_NM": "공덕역"
+ },
+ {
+  "NUM": "343",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "0399",
+  "STIN_NM": "양원(서울시북부병원)역"
+ },
+ {
+  "NUM": "344",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "123",
+  "STIN_NM": "회기역"
+ },
+ {
+  "NUM": "345",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "1251",
+  "STIN_NM": "서울역"
+ },
+ {
+  "NUM": "346",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "1277",
+  "STIN_NM": "야당역"
+ },
+ {
+  "NUM": "347",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "131",
+  "STIN_NM": "신원역"
+ },
+ {
+  "NUM": "348",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "132",
+  "STIN_NM": "국수역"
+ },
+ {
+  "NUM": "349",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "188",
+  "STIN_NM": "망우역"
+ },
+ {
+  "NUM": "350",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "319",
+  "STIN_NM": "강매역"
+ },
+ {
+  "NUM": "351",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "323",
+  "STIN_NM": "곡산역"
+ },
+ {
+  "NUM": "352",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K110",
+  "STIN_NM": "용산역"
+ },
+ {
+  "NUM": "353",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K111",
+  "STIN_NM": "이촌역"
+ },
+ {
+  "NUM": "354",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K112",
+  "STIN_NM": "서빙고역"
+ },
+ {
+  "NUM": "355",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K113",
+  "STIN_NM": "한남역"
+ },
+ {
+  "NUM": "356",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K114",
+  "STIN_NM": "옥수역"
+ },
+ {
+  "NUM": "357",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K119",
+  "STIN_NM": "중랑역"
+ },
+ {
+  "NUM": "358",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K123",
+  "STIN_NM": "구리역"
+ },
+ {
+  "NUM": "359",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K124",
+  "STIN_NM": "도농역"
+ },
+ {
+  "NUM": "360",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K125",
+  "STIN_NM": "양정역"
+ },
+ {
+  "NUM": "361",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K126",
+  "STIN_NM": "덕소역"
+ },
+ {
+  "NUM": "362",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K128",
+  "STIN_NM": "팔당역"
+ },
+ {
+  "NUM": "363",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K129",
+  "STIN_NM": "운길산역"
+ },
+ {
+  "NUM": "364",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K130",
+  "STIN_NM": "양수역"
+ },
+ {
+  "NUM": "365",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K133",
+  "STIN_NM": "아신(아세아연합신학대)역"
+ },
+ {
+  "NUM": "366",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K134",
+  "STIN_NM": "오빈역"
+ },
+ {
+  "NUM": "367",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K136",
+  "STIN_NM": "원덕(추읍산)역"
+ },
+ {
+  "NUM": "368",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K137",
+  "STIN_NM": "용문역"
+ },
+ {
+  "NUM": "369",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K138",
+  "STIN_NM": "지평역"
+ },
+ {
+  "NUM": "370",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K209",
+  "STIN_NM": "청량리역"
+ },
+ {
+  "NUM": "371",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K311",
+  "STIN_NM": "효창공원앞역"
+ },
+ {
+  "NUM": "372",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K313",
+  "STIN_NM": "서강대역"
+ },
+ {
+  "NUM": "373",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K314",
+  "STIN_NM": "홍대입구역"
+ },
+ {
+  "NUM": "374",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K315",
+  "STIN_NM": "가좌역"
+ },
+ {
+  "NUM": "375",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K316",
+  "STIN_NM": "디지털미디어시티역"
+ },
+ {
+  "NUM": "376",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K317",
+  "STIN_NM": "수색역"
+ },
+ {
+  "NUM": "377",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K320",
+  "STIN_NM": "행신역"
+ },
+ {
+  "NUM": "378",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K321",
+  "STIN_NM": "능곡역"
+ },
+ {
+  "NUM": "379",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K325",
+  "STIN_NM": "풍산역"
+ },
+ {
+  "NUM": "380",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K326",
+  "STIN_NM": "일산역"
+ },
+ {
+  "NUM": "381",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K327",
+  "STIN_NM": "탄현역"
+ },
+ {
+  "NUM": "382",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K329",
+  "STIN_NM": "운정역"
+ },
+ {
+  "NUM": "383",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K331",
+  "STIN_NM": "금촌역"
+ },
+ {
+  "NUM": "384",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K333",
+  "STIN_NM": "월롱(서영대학교)역"
+ },
+ {
+  "NUM": "385",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K334",
+  "STIN_NM": "파주(두원대학)역"
+ },
+ {
+  "NUM": "386",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K335",
+  "STIN_NM": "문산역"
+ },
+ {
+  "NUM": "387",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K336",
+  "STIN_NM": "운천역"
+ },
+ {
+  "NUM": "388",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "K338",
+  "STIN_NM": "도라산역"
+ },
+ {
+  "NUM": "389",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "P314",
+  "STIN_NM": "신촌역"
+ },
+ {
+  "NUM": "390",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k115",
+  "STIN_NM": "응봉역"
+ },
+ {
+  "NUM": "391",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k120",
+  "STIN_NM": "상봉역"
+ },
+ {
+  "NUM": "392",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k127",
+  "STIN_NM": "도심역"
+ },
+ {
+  "NUM": "393",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k135",
+  "STIN_NM": "양평역"
+ },
+ {
+  "NUM": "394",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k210",
+  "STIN_NM": "왕십리역"
+ },
+ {
+  "NUM": "395",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k318",
+  "STIN_NM": "한국항공대역"
+ },
+ {
+  "NUM": "396",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k322",
+  "STIN_NM": "대곡역"
+ },
+ {
+  "NUM": "397",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k324",
+  "STIN_NM": "백마역"
+ },
+ {
+  "NUM": "398",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k330",
+  "STIN_NM": "금릉역"
+ },
+ {
+  "NUM": "399",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K4",
+  "LN_NM": "경의중앙",
+  "STIN_CD": "k337",
+  "STIN_NM": "임진강역"
+ },
+ {
+  "NUM": "400",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K410",
+  "STIN_NM": "판교(판교테크노밸리)역"
+ },
+ {
+  "NUM": "401",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K411",
+  "STIN_NM": "이매역"
+ },
+ {
+  "NUM": "402",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K412",
+  "STIN_NM": "삼동역"
+ },
+ {
+  "NUM": "403",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K413",
+  "STIN_NM": "경기광주역"
+ },
+ {
+  "NUM": "404",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K416",
+  "STIN_NM": "신둔도예촌역"
+ },
+ {
+  "NUM": "405",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K417",
+  "STIN_NM": "이천역"
+ },
+ {
+  "NUM": "406",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K418",
+  "STIN_NM": "부발역"
+ },
+ {
+  "NUM": "407",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "K420",
+  "STIN_NM": "여주역"
+ },
+ {
+  "NUM": "408",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "k414",
+  "STIN_NM": "초월역"
+ },
+ {
+  "NUM": "409",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "k415",
+  "STIN_NM": "곤지암역"
+ },
+ {
+  "NUM": "410",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "k419",
+  "STIN_NM": "세종대왕릉역"
+ },
+ {
+  "NUM": "411",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K5",
+  "LN_NM": "경강선",
+  "STIN_CD": "9008",
+  "STIN_NM": "성남역"
+ },
+ {
+  "NUM": "412",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "150",
+  "STIN_NM": "서울역"
+ },
+ {
+  "NUM": "413",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "151",
+  "STIN_NM": "시청역"
+ },
+ {
+  "NUM": "414",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "152",
+  "STIN_NM": "종각역"
+ },
+ {
+  "NUM": "415",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "153",
+  "STIN_NM": "종로3가역"
+ },
+ {
+  "NUM": "416",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "154",
+  "STIN_NM": "종로5가역"
+ },
+ {
+  "NUM": "417",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "155",
+  "STIN_NM": "동대문역"
+ },
+ {
+  "NUM": "418",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "156",
+  "STIN_NM": "신설동역"
+ },
+ {
+  "NUM": "419",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "157",
+  "STIN_NM": "제기동역"
+ },
+ {
+  "NUM": "420",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "158",
+  "STIN_NM": "청량리(서울시립대입구)역"
+ },
+ {
+  "NUM": "421",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "159",
+  "STIN_NM": "동묘앞역"
+ },
+ {
+  "NUM": "422",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "201",
+  "STIN_NM": "시청역"
+ },
+ {
+  "NUM": "423",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "202",
+  "STIN_NM": "을지로입구역"
+ },
+ {
+  "NUM": "424",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "203",
+  "STIN_NM": "을지로3가역"
+ },
+ {
+  "NUM": "425",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "204",
+  "STIN_NM": "을지로4가역"
+ },
+ {
+  "NUM": "426",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "205",
+  "STIN_NM": "동대문역사문화공원역"
+ },
+ {
+  "NUM": "427",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "206",
+  "STIN_NM": "신당역"
+ },
+ {
+  "NUM": "428",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "207",
+  "STIN_NM": "상왕십리역"
+ },
+ {
+  "NUM": "429",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "208",
+  "STIN_NM": "왕십리역"
+ },
+ {
+  "NUM": "430",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "209",
+  "STIN_NM": "한양대역"
+ },
+ {
+  "NUM": "431",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "210",
+  "STIN_NM": "뚝섬역"
+ },
+ {
+  "NUM": "432",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "211",
+  "STIN_NM": "성수역"
+ },
+ {
+  "NUM": "433",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "212",
+  "STIN_NM": "건대입구역"
+ },
+ {
+  "NUM": "434",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "213",
+  "STIN_NM": "구의(광진구청)역"
+ },
+ {
+  "NUM": "435",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "214",
+  "STIN_NM": "강변(동서울터미널)역"
+ },
+ {
+  "NUM": "436",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "215",
+  "STIN_NM": "잠실나루역"
+ },
+ {
+  "NUM": "437",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "216",
+  "STIN_NM": "잠실(송파구청)역"
+ },
+ {
+  "NUM": "438",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "217",
+  "STIN_NM": "잠실새내역"
+ },
+ {
+  "NUM": "439",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "218",
+  "STIN_NM": "종합운동장역"
+ },
+ {
+  "NUM": "440",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "219",
+  "STIN_NM": "삼성(무역센터)역"
+ },
+ {
+  "NUM": "441",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "220",
+  "STIN_NM": "선릉역"
+ },
+ {
+  "NUM": "442",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "221",
+  "STIN_NM": "역삼역"
+ },
+ {
+  "NUM": "443",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "222",
+  "STIN_NM": "강남역"
+ },
+ {
+  "NUM": "444",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "223",
+  "STIN_NM": "교대(법원·검찰청)역"
+ },
+ {
+  "NUM": "445",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "224",
+  "STIN_NM": "서초역"
+ },
+ {
+  "NUM": "446",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "225",
+  "STIN_NM": "방배역"
+ },
+ {
+  "NUM": "447",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "226",
+  "STIN_NM": "사당역"
+ },
+ {
+  "NUM": "448",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "227",
+  "STIN_NM": "낙성대역"
+ },
+ {
+  "NUM": "449",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "228",
+  "STIN_NM": "서울대입구(관악구청)역"
+ },
+ {
+  "NUM": "450",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "229",
+  "STIN_NM": "봉천역"
+ },
+ {
+  "NUM": "451",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "230",
+  "STIN_NM": "신림역"
+ },
+ {
+  "NUM": "452",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "231",
+  "STIN_NM": "신대방역"
+ },
+ {
+  "NUM": "453",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "232",
+  "STIN_NM": "구로디지털단지역"
+ },
+ {
+  "NUM": "454",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "233",
+  "STIN_NM": "대림(구로구청)역"
+ },
+ {
+  "NUM": "455",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "234",
+  "STIN_NM": "신도림역"
+ },
+ {
+  "NUM": "456",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "234-4",
+  "STIN_NM": "까치산역"
+ },
+ {
+  "NUM": "457",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "235",
+  "STIN_NM": "문래역"
+ },
+ {
+  "NUM": "458",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "236",
+  "STIN_NM": "영등포구청역"
+ },
+ {
+  "NUM": "459",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "237",
+  "STIN_NM": "당산역"
+ },
+ {
+  "NUM": "460",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "238",
+  "STIN_NM": "합정역"
+ },
+ {
+  "NUM": "461",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "239",
+  "STIN_NM": "홍대입구역"
+ },
+ {
+  "NUM": "462",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "240",
+  "STIN_NM": "신촌역"
+ },
+ {
+  "NUM": "463",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "241",
+  "STIN_NM": "이대역"
+ },
+ {
+  "NUM": "464",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "242",
+  "STIN_NM": "아현역"
+ },
+ {
+  "NUM": "465",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "243",
+  "STIN_NM": "충정로(경기대입구)역"
+ },
+ {
+  "NUM": "466",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "244",
+  "STIN_NM": "용답역"
+ },
+ {
+  "NUM": "467",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "245",
+  "STIN_NM": "신답역"
+ },
+ {
+  "NUM": "468",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "246",
+  "STIN_NM": "신설동역"
+ },
+ {
+  "NUM": "469",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "247",
+  "STIN_NM": "도림천역"
+ },
+ {
+  "NUM": "470",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "248",
+  "STIN_NM": "양천구청역"
+ },
+ {
+  "NUM": "471",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "249",
+  "STIN_NM": "신정네거리역"
+ },
+ {
+  "NUM": "472",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "250",
+  "STIN_NM": "용두(동대문구청)역"
+ },
+ {
+  "NUM": "473",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "309",
+  "STIN_NM": "지축역"
+ },
+ {
+  "NUM": "474",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "310",
+  "STIN_NM": "구파발역"
+ },
+ {
+  "NUM": "475",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "311",
+  "STIN_NM": "연신내역"
+ },
+ {
+  "NUM": "476",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "312",
+  "STIN_NM": "불광역"
+ },
+ {
+  "NUM": "477",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "313",
+  "STIN_NM": "녹번역"
+ },
+ {
+  "NUM": "478",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "314",
+  "STIN_NM": "홍제역"
+ },
+ {
+  "NUM": "479",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "315",
+  "STIN_NM": "무악재역"
+ },
+ {
+  "NUM": "480",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "316",
+  "STIN_NM": "독립문역"
+ },
+ {
+  "NUM": "481",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "317",
+  "STIN_NM": "경복궁(정부서울청사)역"
+ },
+ {
+  "NUM": "482",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "318",
+  "STIN_NM": "안국역"
+ },
+ {
+  "NUM": "483",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "319",
+  "STIN_NM": "종로3가역"
+ },
+ {
+  "NUM": "484",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "320",
+  "STIN_NM": "을지로3가역"
+ },
+ {
+  "NUM": "485",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "321",
+  "STIN_NM": "충무로역"
+ },
+ {
+  "NUM": "486",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "322",
+  "STIN_NM": "동대입구역"
+ },
+ {
+  "NUM": "487",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "323",
+  "STIN_NM": "약수역"
+ },
+ {
+  "NUM": "488",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "324",
+  "STIN_NM": "금호역"
+ },
+ {
+  "NUM": "489",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "325",
+  "STIN_NM": "옥수역"
+ },
+ {
+  "NUM": "490",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "326",
+  "STIN_NM": "압구정역"
+ },
+ {
+  "NUM": "491",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "327",
+  "STIN_NM": "신사역"
+ },
+ {
+  "NUM": "492",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "328",
+  "STIN_NM": "잠원역"
+ },
+ {
+  "NUM": "493",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "329",
+  "STIN_NM": "고속터미널역"
+ },
+ {
+  "NUM": "494",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "330",
+  "STIN_NM": "교대(법원·검찰청)역"
+ },
+ {
+  "NUM": "495",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "331",
+  "STIN_NM": "남부터미널(예술의전당)역"
+ },
+ {
+  "NUM": "496",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "332",
+  "STIN_NM": "양재(서초구청)역"
+ },
+ {
+  "NUM": "497",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "333",
+  "STIN_NM": "매봉역"
+ },
+ {
+  "NUM": "498",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "334",
+  "STIN_NM": "도곡역"
+ },
+ {
+  "NUM": "499",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "335",
+  "STIN_NM": "대치역"
+ },
+ {
+  "NUM": "500",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "336",
+  "STIN_NM": "학여울역"
+ },
+ {
+  "NUM": "501",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "337",
+  "STIN_NM": "대청역"
+ },
+ {
+  "NUM": "502",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "338",
+  "STIN_NM": "일원역"
+ },
+ {
+  "NUM": "503",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "339",
+  "STIN_NM": "수서역"
+ },
+ {
+  "NUM": "504",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "340",
+  "STIN_NM": "가락시장역"
+ },
+ {
+  "NUM": "505",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "341",
+  "STIN_NM": "경찰병원역"
+ },
+ {
+  "NUM": "506",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "342",
+  "STIN_NM": "오금역"
+ },
+ {
+  "NUM": "507",
+  "RAIL_OPR_ISTT_CD": "NU",
+  "RAIL_OPR_ISTT_NM": "남양주도시공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "405",
+  "STIN_NM": "진접역"
+ },
+ {
+  "NUM": "508",
+  "RAIL_OPR_ISTT_CD": "NU",
+  "RAIL_OPR_ISTT_NM": "남양주도시공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "406",
+  "STIN_NM": "오남역"
+ },
+ {
+  "NUM": "509",
+  "RAIL_OPR_ISTT_CD": "NU",
+  "RAIL_OPR_ISTT_NM": "남양주도시공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "408",
+  "STIN_NM": "별내별가람역"
+ },
+ {
+  "NUM": "510",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "409",
+  "STIN_NM": "당고개역"
+ },
+ {
+  "NUM": "511",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "410",
+  "STIN_NM": "상계역"
+ },
+ {
+  "NUM": "512",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "411",
+  "STIN_NM": "노원역"
+ },
+ {
+  "NUM": "513",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "412",
+  "STIN_NM": "창동역"
+ },
+ {
+  "NUM": "514",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "413",
+  "STIN_NM": "쌍문역"
+ },
+ {
+  "NUM": "515",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "414",
+  "STIN_NM": "수유(강북구청)역"
+ },
+ {
+  "NUM": "516",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "415",
+  "STIN_NM": "미아역"
+ },
+ {
+  "NUM": "517",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "416",
+  "STIN_NM": "미아사거리역"
+ },
+ {
+  "NUM": "518",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "417",
+  "STIN_NM": "길음역"
+ },
+ {
+  "NUM": "519",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "418",
+  "STIN_NM": "성신여대입구(돈암)역"
+ },
+ {
+  "NUM": "520",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "419",
+  "STIN_NM": "한성대입구(삼선교)역"
+ },
+ {
+  "NUM": "521",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "420",
+  "STIN_NM": "혜화역"
+ },
+ {
+  "NUM": "522",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "421",
+  "STIN_NM": "동대문역"
+ },
+ {
+  "NUM": "523",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "422",
+  "STIN_NM": "동대문역사문화공원역"
+ },
+ {
+  "NUM": "524",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "423",
+  "STIN_NM": "충무로역"
+ },
+ {
+  "NUM": "525",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "424",
+  "STIN_NM": "명동역"
+ },
+ {
+  "NUM": "526",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "425",
+  "STIN_NM": "회현(남대문시장)역"
+ },
+ {
+  "NUM": "527",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "426",
+  "STIN_NM": "서울역"
+ },
+ {
+  "NUM": "528",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "427",
+  "STIN_NM": "숙대입구(갈월)역"
+ },
+ {
+  "NUM": "529",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "428",
+  "STIN_NM": "삼각지역"
+ },
+ {
+  "NUM": "530",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "429",
+  "STIN_NM": "신용산역"
+ },
+ {
+  "NUM": "531",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "430",
+  "STIN_NM": "이촌(국립중앙박물관)역"
+ },
+ {
+  "NUM": "532",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "431",
+  "STIN_NM": "동작(현충원)역"
+ },
+ {
+  "NUM": "533",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "432",
+  "STIN_NM": "총신대입구(이수)역"
+ },
+ {
+  "NUM": "534",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "433",
+  "STIN_NM": "사당역"
+ },
+ {
+  "NUM": "535",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "434",
+  "STIN_NM": "남태령역"
+ },
+ {
+  "NUM": "536",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2511",
+  "STIN_NM": "방화역"
+ },
+ {
+  "NUM": "537",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2512",
+  "STIN_NM": "개화산역"
+ },
+ {
+  "NUM": "538",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2513",
+  "STIN_NM": "김포공항역"
+ },
+ {
+  "NUM": "539",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2514",
+  "STIN_NM": "송정역"
+ },
+ {
+  "NUM": "540",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2515",
+  "STIN_NM": "마곡역"
+ },
+ {
+  "NUM": "541",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2516",
+  "STIN_NM": "발산역"
+ },
+ {
+  "NUM": "542",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2517",
+  "STIN_NM": "우장산역"
+ },
+ {
+  "NUM": "543",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2518",
+  "STIN_NM": "화곡역"
+ },
+ {
+  "NUM": "544",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2519",
+  "STIN_NM": "까치산역"
+ },
+ {
+  "NUM": "545",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2520",
+  "STIN_NM": "신정(은행정)역"
+ },
+ {
+  "NUM": "546",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2521",
+  "STIN_NM": "목동역"
+ },
+ {
+  "NUM": "547",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2522",
+  "STIN_NM": "오목교(목동운동장앞)역"
+ },
+ {
+  "NUM": "548",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2523",
+  "STIN_NM": "양평역"
+ },
+ {
+  "NUM": "549",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2524",
+  "STIN_NM": "영등포구청역"
+ },
+ {
+  "NUM": "550",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2525",
+  "STIN_NM": "영등포시장역"
+ },
+ {
+  "NUM": "551",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2526",
+  "STIN_NM": "신길역"
+ },
+ {
+  "NUM": "552",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2527",
+  "STIN_NM": "여의도역"
+ },
+ {
+  "NUM": "553",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2528",
+  "STIN_NM": "여의나루역"
+ },
+ {
+  "NUM": "554",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2529",
+  "STIN_NM": "마포역"
+ },
+ {
+  "NUM": "555",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2530",
+  "STIN_NM": "공덕역"
+ },
+ {
+  "NUM": "556",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2531",
+  "STIN_NM": "애오개역"
+ },
+ {
+  "NUM": "557",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2532",
+  "STIN_NM": "충정로(경기대입구)역"
+ },
+ {
+  "NUM": "558",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2533",
+  "STIN_NM": "서대문역"
+ },
+ {
+  "NUM": "559",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2534",
+  "STIN_NM": "광화문(세종문화회관)역"
+ },
+ {
+  "NUM": "560",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2535",
+  "STIN_NM": "종로3가(탑골공원)역"
+ },
+ {
+  "NUM": "561",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2536",
+  "STIN_NM": "을지로4가역"
+ },
+ {
+  "NUM": "562",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2537",
+  "STIN_NM": "동대문역사문화공원역"
+ },
+ {
+  "NUM": "563",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2538",
+  "STIN_NM": "청구역"
+ },
+ {
+  "NUM": "564",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2539",
+  "STIN_NM": "신금호역"
+ },
+ {
+  "NUM": "565",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2540",
+  "STIN_NM": "행당역"
+ },
+ {
+  "NUM": "566",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2541",
+  "STIN_NM": "왕십리역"
+ },
+ {
+  "NUM": "567",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2542",
+  "STIN_NM": "마장역"
+ },
+ {
+  "NUM": "568",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2543",
+  "STIN_NM": "답십리역"
+ },
+ {
+  "NUM": "569",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2544",
+  "STIN_NM": "장한평역"
+ },
+ {
+  "NUM": "570",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2545",
+  "STIN_NM": "군자(능동)역"
+ },
+ {
+  "NUM": "571",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2546",
+  "STIN_NM": "아차산(어린이대공원후문)역"
+ },
+ {
+  "NUM": "572",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2547",
+  "STIN_NM": "광나루(장신대)역"
+ },
+ {
+  "NUM": "573",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2548",
+  "STIN_NM": "천호(풍납토성)역"
+ },
+ {
+  "NUM": "574",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2549",
+  "STIN_NM": "강동역"
+ },
+ {
+  "NUM": "575",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2550",
+  "STIN_NM": "길동역"
+ },
+ {
+  "NUM": "576",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2551",
+  "STIN_NM": "굽은다리(강동구민회관앞)역"
+ },
+ {
+  "NUM": "577",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2552",
+  "STIN_NM": "명일역"
+ },
+ {
+  "NUM": "578",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2553",
+  "STIN_NM": "고덕역"
+ },
+ {
+  "NUM": "579",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2554",
+  "STIN_NM": "상일동역"
+ },
+ {
+  "NUM": "580",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2555",
+  "STIN_NM": "둔촌동역"
+ },
+ {
+  "NUM": "581",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2556",
+  "STIN_NM": "올림픽공원(한국체대)역"
+ },
+ {
+  "NUM": "582",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2557",
+  "STIN_NM": "방이역"
+ },
+ {
+  "NUM": "583",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2558",
+  "STIN_NM": "오금역"
+ },
+ {
+  "NUM": "584",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2559",
+  "STIN_NM": "개롱역"
+ },
+ {
+  "NUM": "585",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2560",
+  "STIN_NM": "거여역"
+ },
+ {
+  "NUM": "586",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2561",
+  "STIN_NM": "마천역"
+ },
+ {
+  "NUM": "587",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2562",
+  "STIN_NM": "강일역"
+ },
+ {
+  "NUM": "588",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2563",
+  "STIN_NM": "미사역"
+ },
+ {
+  "NUM": "589",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2564",
+  "STIN_NM": "하남풍산역"
+ },
+ {
+  "NUM": "590",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2565",
+  "STIN_NM": "하남시청(덕풍?신장)역"
+ },
+ {
+  "NUM": "591",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "5",
+  "LN_NM": "5호선",
+  "STIN_CD": "2566",
+  "STIN_NM": "하남검단산역"
+ },
+ {
+  "NUM": "592",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2611",
+  "STIN_NM": "응암역"
+ },
+ {
+  "NUM": "593",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2612",
+  "STIN_NM": "역촌역"
+ },
+ {
+  "NUM": "594",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2613",
+  "STIN_NM": "불광역"
+ },
+ {
+  "NUM": "595",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2614",
+  "STIN_NM": "독바위역"
+ },
+ {
+  "NUM": "596",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2615",
+  "STIN_NM": "연신내역"
+ },
+ {
+  "NUM": "597",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2616",
+  "STIN_NM": "구산역"
+ },
+ {
+  "NUM": "598",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2617",
+  "STIN_NM": "새절(신사)역"
+ },
+ {
+  "NUM": "599",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2618",
+  "STIN_NM": "증산(명지대앞)역"
+ },
+ {
+  "NUM": "600",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2619",
+  "STIN_NM": "디지털미디어시티역"
+ },
+ {
+  "NUM": "601",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2620",
+  "STIN_NM": "월드컵경기장(성산)역"
+ },
+ {
+  "NUM": "602",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2621",
+  "STIN_NM": "마포구청역"
+ },
+ {
+  "NUM": "603",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2622",
+  "STIN_NM": "망원역"
+ },
+ {
+  "NUM": "604",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2623",
+  "STIN_NM": "합정역"
+ },
+ {
+  "NUM": "605",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2624",
+  "STIN_NM": "상수역"
+ },
+ {
+  "NUM": "606",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2625",
+  "STIN_NM": "광흥창(서강)역"
+ },
+ {
+  "NUM": "607",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2626",
+  "STIN_NM": "대흥(서강대앞)역"
+ },
+ {
+  "NUM": "608",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2627",
+  "STIN_NM": "공덕역"
+ },
+ {
+  "NUM": "609",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2628",
+  "STIN_NM": "효창공원앞역"
+ },
+ {
+  "NUM": "610",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2629",
+  "STIN_NM": "삼각지역"
+ },
+ {
+  "NUM": "611",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2630",
+  "STIN_NM": "녹사평(용산구청)역"
+ },
+ {
+  "NUM": "612",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2631",
+  "STIN_NM": "이태원역"
+ },
+ {
+  "NUM": "613",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2632",
+  "STIN_NM": "한강진역"
+ },
+ {
+  "NUM": "614",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2633",
+  "STIN_NM": "버티고개역"
+ },
+ {
+  "NUM": "615",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2634",
+  "STIN_NM": "약수역"
+ },
+ {
+  "NUM": "616",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2635",
+  "STIN_NM": "청구역"
+ },
+ {
+  "NUM": "617",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2636",
+  "STIN_NM": "신당역"
+ },
+ {
+  "NUM": "618",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2637",
+  "STIN_NM": "동묘앞역"
+ },
+ {
+  "NUM": "619",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2638",
+  "STIN_NM": "창신역"
+ },
+ {
+  "NUM": "620",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2639",
+  "STIN_NM": "보문역"
+ },
+ {
+  "NUM": "621",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2640",
+  "STIN_NM": "안암(고대병원앞)역"
+ },
+ {
+  "NUM": "622",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2641",
+  "STIN_NM": "고려대(종암)역"
+ },
+ {
+  "NUM": "623",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2642",
+  "STIN_NM": "월곡(동덕여대)역"
+ },
+ {
+  "NUM": "624",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2643",
+  "STIN_NM": "상월곡(한국과학기술연구원)역"
+ },
+ {
+  "NUM": "625",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2644",
+  "STIN_NM": "돌곶이역"
+ },
+ {
+  "NUM": "626",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2645",
+  "STIN_NM": "석계역"
+ },
+ {
+  "NUM": "627",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2646",
+  "STIN_NM": "태릉입구역"
+ },
+ {
+  "NUM": "628",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2647",
+  "STIN_NM": "화랑대(서울여대입구)역"
+ },
+ {
+  "NUM": "629",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2648",
+  "STIN_NM": "봉화산(서울의료원)역"
+ },
+ {
+  "NUM": "630",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "6",
+  "LN_NM": "6호선",
+  "STIN_CD": "2649",
+  "STIN_NM": "신내역"
+ },
+ {
+  "NUM": "631",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2711",
+  "STIN_NM": "장암역"
+ },
+ {
+  "NUM": "632",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2712",
+  "STIN_NM": "도봉산역"
+ },
+ {
+  "NUM": "633",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2713",
+  "STIN_NM": "수락산역"
+ },
+ {
+  "NUM": "634",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2714",
+  "STIN_NM": "마들역"
+ },
+ {
+  "NUM": "635",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2715",
+  "STIN_NM": "노원역"
+ },
+ {
+  "NUM": "636",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2716",
+  "STIN_NM": "중계역"
+ },
+ {
+  "NUM": "637",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2717",
+  "STIN_NM": "하계역"
+ },
+ {
+  "NUM": "638",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2718",
+  "STIN_NM": "공릉(서울과학기술대)역"
+ },
+ {
+  "NUM": "639",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2719",
+  "STIN_NM": "태릉입구역"
+ },
+ {
+  "NUM": "640",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2720",
+  "STIN_NM": "먹골역"
+ },
+ {
+  "NUM": "641",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2721",
+  "STIN_NM": "중화역"
+ },
+ {
+  "NUM": "642",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2722",
+  "STIN_NM": "상봉(시외버스터미널)역"
+ },
+ {
+  "NUM": "643",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2723",
+  "STIN_NM": "면목역"
+ },
+ {
+  "NUM": "644",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2724",
+  "STIN_NM": "사가정역"
+ },
+ {
+  "NUM": "645",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2725",
+  "STIN_NM": "용마산역"
+ },
+ {
+  "NUM": "646",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2726",
+  "STIN_NM": "중곡역"
+ },
+ {
+  "NUM": "647",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2727",
+  "STIN_NM": "군자(능동)역"
+ },
+ {
+  "NUM": "648",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2728",
+  "STIN_NM": "어린이대공원(세종대)역"
+ },
+ {
+  "NUM": "649",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2729",
+  "STIN_NM": "건대입구역"
+ },
+ {
+  "NUM": "650",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2730",
+  "STIN_NM": "자양(뚝섬한강공원)역"
+ },
+ {
+  "NUM": "651",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2731",
+  "STIN_NM": "청담역"
+ },
+ {
+  "NUM": "652",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2732",
+  "STIN_NM": "강남구청역"
+ },
+ {
+  "NUM": "653",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2733",
+  "STIN_NM": "학동역"
+ },
+ {
+  "NUM": "654",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2734",
+  "STIN_NM": "논현역"
+ },
+ {
+  "NUM": "655",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2735",
+  "STIN_NM": "반포역"
+ },
+ {
+  "NUM": "656",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2736",
+  "STIN_NM": "고속터미널역"
+ },
+ {
+  "NUM": "657",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2737",
+  "STIN_NM": "내방역"
+ },
+ {
+  "NUM": "658",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2738",
+  "STIN_NM": "총신대입구(이수)역"
+ },
+ {
+  "NUM": "659",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2739",
+  "STIN_NM": "남성역"
+ },
+ {
+  "NUM": "660",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2740",
+  "STIN_NM": "숭실대입구(살피재)역"
+ },
+ {
+  "NUM": "661",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2741",
+  "STIN_NM": "상도역"
+ },
+ {
+  "NUM": "662",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2742",
+  "STIN_NM": "장승배기역"
+ },
+ {
+  "NUM": "663",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2743",
+  "STIN_NM": "신대방삼거리역"
+ },
+ {
+  "NUM": "664",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2744",
+  "STIN_NM": "보라매역"
+ },
+ {
+  "NUM": "665",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2745",
+  "STIN_NM": "신풍역"
+ },
+ {
+  "NUM": "666",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2746",
+  "STIN_NM": "대림(구로구청)역"
+ },
+ {
+  "NUM": "667",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2747",
+  "STIN_NM": "남구로역"
+ },
+ {
+  "NUM": "668",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2748",
+  "STIN_NM": "가산디지털단지역"
+ },
+ {
+  "NUM": "669",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2749",
+  "STIN_NM": "철산역"
+ },
+ {
+  "NUM": "670",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2750",
+  "STIN_NM": "광명사거리역"
+ },
+ {
+  "NUM": "671",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2751",
+  "STIN_NM": "천왕역"
+ },
+ {
+  "NUM": "672",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "7",
+  "LN_NM": "7호선",
+  "STIN_CD": "2752",
+  "STIN_NM": "온수(성공회대입구)역"
+ },
+ {
+  "NUM": "673",
+  "RAIL_OPR_ISTT_CD": "NU",
+  "RAIL_OPR_ISTT_NM": "남양주도시공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2804",
+  "STIN_NM": "별내역"
+ },
+ {
+  "NUM": "674",
+  "RAIL_OPR_ISTT_CD": "NU",
+  "RAIL_OPR_ISTT_NM": "남양주도시공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2806",
+  "STIN_NM": "다산역"
+ },
+ {
+  "NUM": "675",
+  "RAIL_OPR_ISTT_CD": "GU",
+  "RAIL_OPR_ISTT_NM": "구리도시공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2807",
+  "STIN_NM": "동구릉역"
+ },
+ {
+  "NUM": "676",
+  "RAIL_OPR_ISTT_CD": "GU",
+  "RAIL_OPR_ISTT_NM": "구리도시공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2805",
+  "STIN_NM": "구리역"
+ },
+ {
+  "NUM": "677",
+  "RAIL_OPR_ISTT_CD": "GU",
+  "RAIL_OPR_ISTT_NM": "구리도시공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2808",
+  "STIN_NM": "장자호수공원역"
+ },
+ {
+  "NUM": "678",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2809",
+  "STIN_NM": "암사역사공원역"
+ },
+ {
+  "NUM": "679",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2811",
+  "STIN_NM": "암사역"
+ },
+ {
+  "NUM": "680",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2812",
+  "STIN_NM": "천호(풍납토성)역"
+ },
+ {
+  "NUM": "681",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2813",
+  "STIN_NM": "강동구청역"
+ },
+ {
+  "NUM": "682",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2814",
+  "STIN_NM": "몽촌토성(평화의문)역"
+ },
+ {
+  "NUM": "683",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2815",
+  "STIN_NM": "잠실(송파구청)역"
+ },
+ {
+  "NUM": "684",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2816",
+  "STIN_NM": "석촌역"
+ },
+ {
+  "NUM": "685",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2817",
+  "STIN_NM": "송파역"
+ },
+ {
+  "NUM": "686",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2818",
+  "STIN_NM": "가락시장역"
+ },
+ {
+  "NUM": "687",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2819",
+  "STIN_NM": "문정역"
+ },
+ {
+  "NUM": "688",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2820",
+  "STIN_NM": "장지역"
+ },
+ {
+  "NUM": "689",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2821",
+  "STIN_NM": "복정역"
+ },
+ {
+  "NUM": "690",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2822",
+  "STIN_NM": "산성역"
+ },
+ {
+  "NUM": "691",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2823",
+  "STIN_NM": "남한산성입구(성남법원·검찰청)역"
+ },
+ {
+  "NUM": "692",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2824",
+  "STIN_NM": "단대오거리역"
+ },
+ {
+  "NUM": "693",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2825",
+  "STIN_NM": "신흥역"
+ },
+ {
+  "NUM": "694",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2826",
+  "STIN_NM": "수진역"
+ },
+ {
+  "NUM": "695",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2827",
+  "STIN_NM": "모란역"
+ },
+ {
+  "NUM": "696",
+  "RAIL_OPR_ISTT_CD": "S1",
+  "RAIL_OPR_ISTT_NM": "서울교통공사",
+  "LN_CD": "8",
+  "LN_NM": "8호선",
+  "STIN_CD": "2828",
+  "STIN_NM": "남위례역"
+ },
+ {
+  "NUM": "697",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0901",
+  "STIN_NM": "개화역"
+ },
+ {
+  "NUM": "698",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0902",
+  "STIN_NM": "김포공항역"
+ },
+ {
+  "NUM": "699",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0903",
+  "STIN_NM": "공항시장역"
+ },
+ {
+  "NUM": "700",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0904",
+  "STIN_NM": "신방화역"
+ },
+ {
+  "NUM": "701",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0905",
+  "STIN_NM": "마곡나루역"
+ },
+ {
+  "NUM": "702",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0906",
+  "STIN_NM": "양천향교역"
+ },
+ {
+  "NUM": "703",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0907",
+  "STIN_NM": "가양역"
+ },
+ {
+  "NUM": "704",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0908",
+  "STIN_NM": "증미역"
+ },
+ {
+  "NUM": "705",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0909",
+  "STIN_NM": "등촌역"
+ },
+ {
+  "NUM": "706",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0910",
+  "STIN_NM": "염창역"
+ },
+ {
+  "NUM": "707",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0911",
+  "STIN_NM": "신목동역"
+ },
+ {
+  "NUM": "708",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0912",
+  "STIN_NM": "선유도역"
+ },
+ {
+  "NUM": "709",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0913",
+  "STIN_NM": "당산역"
+ },
+ {
+  "NUM": "710",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0914",
+  "STIN_NM": "국회의사당역"
+ },
+ {
+  "NUM": "711",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0915",
+  "STIN_NM": "여의도역"
+ },
+ {
+  "NUM": "712",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0916",
+  "STIN_NM": "샛강역"
+ },
+ {
+  "NUM": "713",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0917",
+  "STIN_NM": "노량진역"
+ },
+ {
+  "NUM": "714",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0918",
+  "STIN_NM": "노들역"
+ },
+ {
+  "NUM": "715",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0919",
+  "STIN_NM": "흑석(중앙대입구)역"
+ },
+ {
+  "NUM": "716",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0920",
+  "STIN_NM": "동작(현충원)역"
+ },
+ {
+  "NUM": "717",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0921",
+  "STIN_NM": "구반포역"
+ },
+ {
+  "NUM": "718",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0922",
+  "STIN_NM": "신반포역"
+ },
+ {
+  "NUM": "719",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0923",
+  "STIN_NM": "고속터미널역"
+ },
+ {
+  "NUM": "720",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0924",
+  "STIN_NM": "사평역"
+ },
+ {
+  "NUM": "721",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "0925",
+  "STIN_NM": "신논현역"
+ },
+ {
+  "NUM": "722",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "926",
+  "STIN_NM": "언주역"
+ },
+ {
+  "NUM": "723",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "927",
+  "STIN_NM": "선정릉역"
+ },
+ {
+  "NUM": "724",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "928",
+  "STIN_NM": "삼성중앙역"
+ },
+ {
+  "NUM": "725",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "929",
+  "STIN_NM": "봉은사역"
+ },
+ {
+  "NUM": "726",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "930",
+  "STIN_NM": "종합운동장역"
+ },
+ {
+  "NUM": "727",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "931",
+  "STIN_NM": "삼전역"
+ },
+ {
+  "NUM": "728",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "932",
+  "STIN_NM": "석촌고분역"
+ },
+ {
+  "NUM": "729",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "933",
+  "STIN_NM": "석촌역"
+ },
+ {
+  "NUM": "730",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "934",
+  "STIN_NM": "송파나루역"
+ },
+ {
+  "NUM": "731",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "935",
+  "STIN_NM": "한성백제역"
+ },
+ {
+  "NUM": "732",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "936",
+  "STIN_NM": "올림픽공원(한국체대)역"
+ },
+ {
+  "NUM": "733",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "937",
+  "STIN_NM": "둔촌오륜역"
+ },
+ {
+  "NUM": "734",
+  "RAIL_OPR_ISTT_CD": "S9",
+  "RAIL_OPR_ISTT_NM": "서울메트로9호선주식회사",
+  "LN_CD": "9",
+  "LN_NM": "9호선",
+  "STIN_CD": "938",
+  "STIN_NM": "중앙보훈병원역"
+ },
+ {
+  "NUM": "735",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S401",
+  "STIN_NM": "샛강역"
+ },
+ {
+  "NUM": "736",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S402",
+  "STIN_NM": "대방역"
+ },
+ {
+  "NUM": "737",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S403",
+  "STIN_NM": "서울지방병무청역"
+ },
+ {
+  "NUM": "738",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S404",
+  "STIN_NM": "보라매역"
+ },
+ {
+  "NUM": "739",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S405",
+  "STIN_NM": "보라매공원역"
+ },
+ {
+  "NUM": "740",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S406",
+  "STIN_NM": "보라매병원역"
+ },
+ {
+  "NUM": "741",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S407",
+  "STIN_NM": "당곡역"
+ },
+ {
+  "NUM": "742",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S408",
+  "STIN_NM": "신림역"
+ },
+ {
+  "NUM": "743",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S409",
+  "STIN_NM": "서원역"
+ },
+ {
+  "NUM": "744",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S410",
+  "STIN_NM": "서울대벤처타운역"
+ },
+ {
+  "NUM": "745",
+  "RAIL_OPR_ISTT_CD": "SL",
+  "RAIL_OPR_ISTT_NM": "남서울경전철주식회사",
+  "LN_CD": "L1",
+  "LN_NM": "신림선",
+  "STIN_CD": "S411",
+  "STIN_NM": "관악산(서울대)역"
+ },
+ {
+  "NUM": "746",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S07",
+  "STIN_NM": "일산역"
+ },
+ {
+  "NUM": "747",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S08",
+  "STIN_NM": "풍산역"
+ },
+ {
+  "NUM": "748",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S09",
+  "STIN_NM": "백마역"
+ },
+ {
+  "NUM": "749",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S10",
+  "STIN_NM": "곡산역"
+ },
+ {
+  "NUM": "750",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S11",
+  "STIN_NM": "대곡역"
+ },
+ {
+  "NUM": "751",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S12",
+  "STIN_NM": "능곡역"
+ },
+ {
+  "NUM": "752",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S13",
+  "STIN_NM": "김포공항역"
+ },
+ {
+  "NUM": "753",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S14",
+  "STIN_NM": "원종역"
+ },
+ {
+  "NUM": "754",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S15",
+  "STIN_NM": "부천종합운동장역"
+ },
+ {
+  "NUM": "755",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S16",
+  "STIN_NM": "소사역"
+ },
+ {
+  "NUM": "756",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S17",
+  "STIN_NM": "소새울역"
+ },
+ {
+  "NUM": "757",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S18",
+  "STIN_NM": "시흥대야역"
+ },
+ {
+  "NUM": "758",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S19",
+  "STIN_NM": "신천역"
+ },
+ {
+  "NUM": "759",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S20",
+  "STIN_NM": "신현역"
+ },
+ {
+  "NUM": "760",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S22",
+  "STIN_NM": "시흥시청역"
+ },
+ {
+  "NUM": "761",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S23",
+  "STIN_NM": "시흥능곡역"
+ },
+ {
+  "NUM": "762",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S24",
+  "STIN_NM": "달미역"
+ },
+ {
+  "NUM": "763",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S25",
+  "STIN_NM": "선부역"
+ },
+ {
+  "NUM": "764",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S26",
+  "STIN_NM": "초지역"
+ },
+ {
+  "NUM": "765",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S27",
+  "STIN_NM": "시우역"
+ },
+ {
+  "NUM": "766",
+  "RAIL_OPR_ISTT_CD": "SW",
+  "RAIL_OPR_ISTT_NM": "서해철도주식회사",
+  "LN_CD": "WS",
+  "LN_NM": "서해선",
+  "STIN_CD": "S28",
+  "STIN_NM": "원시역"
+ },
+ {
+  "NUM": "767",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S110",
+  "STIN_NM": "북한산우이역"
+ },
+ {
+  "NUM": "768",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S111",
+  "STIN_NM": "솔밭공원역"
+ },
+ {
+  "NUM": "769",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S112",
+  "STIN_NM": "4.19민주묘지역"
+ },
+ {
+  "NUM": "770",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S113",
+  "STIN_NM": "가오리역"
+ },
+ {
+  "NUM": "771",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S114",
+  "STIN_NM": "화계역"
+ },
+ {
+  "NUM": "772",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S115",
+  "STIN_NM": "삼양역"
+ },
+ {
+  "NUM": "773",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S116",
+  "STIN_NM": "삼양사거리역"
+ },
+ {
+  "NUM": "774",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S117",
+  "STIN_NM": "솔샘역"
+ },
+ {
+  "NUM": "775",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S118",
+  "STIN_NM": "북한산보국문역"
+ },
+ {
+  "NUM": "776",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S119",
+  "STIN_NM": "정릉역"
+ },
+ {
+  "NUM": "777",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S120",
+  "STIN_NM": "성신여대입구역"
+ },
+ {
+  "NUM": "778",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S121",
+  "STIN_NM": "보문역"
+ },
+ {
+  "NUM": "779",
+  "RAIL_OPR_ISTT_CD": "UI",
+  "RAIL_OPR_ISTT_NM": "우이신설경전철주식회사",
+  "LN_CD": "UI",
+  "LN_NM": "우이신설",
+  "STIN_CD": "S122",
+  "STIN_NM": "신설동역"
+ },
+ {
+  "NUM": "780",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0110",
+  "STIN_NM": "발곡역"
+ },
+ {
+  "NUM": "781",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0111",
+  "STIN_NM": "회룡역"
+ },
+ {
+  "NUM": "782",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0112",
+  "STIN_NM": "범골역"
+ },
+ {
+  "NUM": "783",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0113",
+  "STIN_NM": "경전철의정부역"
+ },
+ {
+  "NUM": "784",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0114",
+  "STIN_NM": "의정부시청역"
+ },
+ {
+  "NUM": "785",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0115",
+  "STIN_NM": "흥선역"
+ },
+ {
+  "NUM": "786",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0117",
+  "STIN_NM": "의정부중앙역"
+ },
+ {
+  "NUM": "787",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0118",
+  "STIN_NM": "동오역"
+ },
+ {
+  "NUM": "788",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0119",
+  "STIN_NM": "새말역"
+ },
+ {
+  "NUM": "789",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0120",
+  "STIN_NM": "경기도청북부청사역"
+ },
+ {
+  "NUM": "790",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0121",
+  "STIN_NM": "효자역"
+ },
+ {
+  "NUM": "791",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0122",
+  "STIN_NM": "곤제역"
+ },
+ {
+  "NUM": "792",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0123",
+  "STIN_NM": "어룡(용현산업단지)역"
+ },
+ {
+  "NUM": "793",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0124",
+  "STIN_NM": "송산역"
+ },
+ {
+  "NUM": "794",
+  "RAIL_OPR_ISTT_CD": "UL",
+  "RAIL_OPR_ISTT_NM": "의정부경량전철주식회사",
+  "LN_CD": "U1",
+  "LN_NM": "의정부경전철",
+  "STIN_CD": "0125",
+  "STIN_NM": "탑석역"
+ },
+ {
+  "NUM": "795",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0101",
+  "STIN_NM": "사상(서부터미널)역"
+ },
+ {
+  "NUM": "796",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0102",
+  "STIN_NM": "괘법르네시떼(강변공원)역"
+ },
+ {
+  "NUM": "797",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0103",
+  "STIN_NM": "서부산유통지구(금호마을)역"
+ },
+ {
+  "NUM": "798",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0104",
+  "STIN_NM": "공항역"
+ },
+ {
+  "NUM": "799",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0105",
+  "STIN_NM": "덕두역"
+ },
+ {
+  "NUM": "800",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0106",
+  "STIN_NM": "등구역"
+ },
+ {
+  "NUM": "801",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0107",
+  "STIN_NM": "대저역"
+ },
+ {
+  "NUM": "802",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0108",
+  "STIN_NM": "평강역"
+ },
+ {
+  "NUM": "803",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0109",
+  "STIN_NM": "대사역"
+ },
+ {
+  "NUM": "804",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0110",
+  "STIN_NM": "불암역"
+ },
+ {
+  "NUM": "805",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0111",
+  "STIN_NM": "지내역"
+ },
+ {
+  "NUM": "806",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0112",
+  "STIN_NM": "김해대학(안동)역"
+ },
+ {
+  "NUM": "807",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0113",
+  "STIN_NM": "인제대(활천)역"
+ },
+ {
+  "NUM": "808",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0114",
+  "STIN_NM": "김해시청역"
+ },
+ {
+  "NUM": "809",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0115",
+  "STIN_NM": "부원역"
+ },
+ {
+  "NUM": "810",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0116",
+  "STIN_NM": "봉황(김해여객터미널)역"
+ },
+ {
+  "NUM": "811",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0117",
+  "STIN_NM": "수로왕릉(김해보건소)역"
+ },
+ {
+  "NUM": "812",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0118",
+  "STIN_NM": "박물관역"
+ },
+ {
+  "NUM": "813",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0119",
+  "STIN_NM": "연지공원역"
+ },
+ {
+  "NUM": "814",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0120",
+  "STIN_NM": "장신대(화정)역"
+ },
+ {
+  "NUM": "815",
+  "RAIL_OPR_ISTT_CD": "BG",
+  "RAIL_OPR_ISTT_NM": "부산김해경전철주식회사",
+  "LN_CD": "B1",
+  "LN_NM": "부산김해경전철",
+  "STIN_CD": "0121",
+  "STIN_NM": "가야대(삼계)역"
+ },
+ {
+  "NUM": "816",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "100",
+  "STIN_NM": "동매역"
+ },
+ {
+  "NUM": "817",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "101",
+  "STIN_NM": "신평역"
+ },
+ {
+  "NUM": "818",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "102",
+  "STIN_NM": "하단(부산본병원)역"
+ },
+ {
+  "NUM": "819",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "103",
+  "STIN_NM": "당리(사하구청)역"
+ },
+ {
+  "NUM": "820",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "104",
+  "STIN_NM": "사하역"
+ },
+ {
+  "NUM": "821",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "105",
+  "STIN_NM": "괴정역"
+ },
+ {
+  "NUM": "822",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "106",
+  "STIN_NM": "대티(동주대학)역"
+ },
+ {
+  "NUM": "823",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "107",
+  "STIN_NM": "서대신역"
+ },
+ {
+  "NUM": "824",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "108",
+  "STIN_NM": "동대신역"
+ },
+ {
+  "NUM": "825",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "109",
+  "STIN_NM": "토성역"
+ },
+ {
+  "NUM": "826",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "110",
+  "STIN_NM": "자갈치역"
+ },
+ {
+  "NUM": "827",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "111",
+  "STIN_NM": "남포역"
+ },
+ {
+  "NUM": "828",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "112",
+  "STIN_NM": "중앙역"
+ },
+ {
+  "NUM": "829",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "113",
+  "STIN_NM": "부산역"
+ },
+ {
+  "NUM": "830",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "114",
+  "STIN_NM": "초량역"
+ },
+ {
+  "NUM": "831",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "115",
+  "STIN_NM": "부산진역"
+ },
+ {
+  "NUM": "832",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "116",
+  "STIN_NM": "좌천역"
+ },
+ {
+  "NUM": "833",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "117",
+  "STIN_NM": "범일역"
+ },
+ {
+  "NUM": "834",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "118",
+  "STIN_NM": "범내골역"
+ },
+ {
+  "NUM": "835",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "119",
+  "STIN_NM": "서면역"
+ },
+ {
+  "NUM": "836",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "120",
+  "STIN_NM": "부전(부산시민공원·송상현광장)역"
+ },
+ {
+  "NUM": "837",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "121",
+  "STIN_NM": "양정역"
+ },
+ {
+  "NUM": "838",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "122",
+  "STIN_NM": "시청(연제)역"
+ },
+ {
+  "NUM": "839",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "123",
+  "STIN_NM": "연산역"
+ },
+ {
+  "NUM": "840",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "124",
+  "STIN_NM": "교대역"
+ },
+ {
+  "NUM": "841",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "125",
+  "STIN_NM": "동래역"
+ },
+ {
+  "NUM": "842",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "126",
+  "STIN_NM": "명륜역"
+ },
+ {
+  "NUM": "843",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "127",
+  "STIN_NM": "온천장역"
+ },
+ {
+  "NUM": "844",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "128",
+  "STIN_NM": "부산대역"
+ },
+ {
+  "NUM": "845",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "129",
+  "STIN_NM": "장전(부산가톨릭대학교)역"
+ },
+ {
+  "NUM": "846",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "130",
+  "STIN_NM": "구서역"
+ },
+ {
+  "NUM": "847",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "131",
+  "STIN_NM": "두실역"
+ },
+ {
+  "NUM": "848",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "132",
+  "STIN_NM": "남산(부산외국대학교)역"
+ },
+ {
+  "NUM": "849",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "133",
+  "STIN_NM": "범어사역"
+ },
+ {
+  "NUM": "850",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "134",
+  "STIN_NM": "노포(종합버스터미널)역"
+ },
+ {
+  "NUM": "851",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "195",
+  "STIN_NM": "다대포해수욕장역"
+ },
+ {
+  "NUM": "852",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "196",
+  "STIN_NM": "다대포항역"
+ },
+ {
+  "NUM": "853",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "197",
+  "STIN_NM": "낫개역"
+ },
+ {
+  "NUM": "854",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "198",
+  "STIN_NM": "신장림역"
+ },
+ {
+  "NUM": "855",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "199",
+  "STIN_NM": "장림역"
+ },
+ {
+  "NUM": "856",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "201",
+  "STIN_NM": "장산(해운대백병원)역"
+ },
+ {
+  "NUM": "857",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "202",
+  "STIN_NM": "중동역"
+ },
+ {
+  "NUM": "858",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "203",
+  "STIN_NM": "해운대역"
+ },
+ {
+  "NUM": "859",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "204",
+  "STIN_NM": "동백역"
+ },
+ {
+  "NUM": "860",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "205",
+  "STIN_NM": "벡스코(시립미술관)역"
+ },
+ {
+  "NUM": "861",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "206",
+  "STIN_NM": "센텀시티(BEXCO·신세계)역"
+ },
+ {
+  "NUM": "862",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "207",
+  "STIN_NM": "민락역"
+ },
+ {
+  "NUM": "863",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "208",
+  "STIN_NM": "수영역"
+ },
+ {
+  "NUM": "864",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "209",
+  "STIN_NM": "광안역"
+ },
+ {
+  "NUM": "865",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "210",
+  "STIN_NM": "금련산역"
+ },
+ {
+  "NUM": "866",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "211",
+  "STIN_NM": "남천(KBS·수영구청)역"
+ },
+ {
+  "NUM": "867",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "212",
+  "STIN_NM": "경성대·부경대(동명대학교)역"
+ },
+ {
+  "NUM": "868",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "213",
+  "STIN_NM": "대연(고려병원)역"
+ },
+ {
+  "NUM": "869",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "214",
+  "STIN_NM": "못골(남구청)역"
+ },
+ {
+  "NUM": "870",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "215",
+  "STIN_NM": "지게골역"
+ },
+ {
+  "NUM": "871",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "216",
+  "STIN_NM": "문현역"
+ },
+ {
+  "NUM": "872",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "217",
+  "STIN_NM": "국제금융센터·부산은행역"
+ },
+ {
+  "NUM": "873",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "218",
+  "STIN_NM": "전포역"
+ },
+ {
+  "NUM": "874",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "219",
+  "STIN_NM": "서면역"
+ },
+ {
+  "NUM": "875",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "220",
+  "STIN_NM": "부암(온종합병원)역"
+ },
+ {
+  "NUM": "876",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "221",
+  "STIN_NM": "가야역"
+ },
+ {
+  "NUM": "877",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "222",
+  "STIN_NM": "동의대역"
+ },
+ {
+  "NUM": "878",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "223",
+  "STIN_NM": "개금역"
+ },
+ {
+  "NUM": "879",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "224",
+  "STIN_NM": "냉정역"
+ },
+ {
+  "NUM": "880",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "225",
+  "STIN_NM": "주례역"
+ },
+ {
+  "NUM": "881",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "226",
+  "STIN_NM": "감전(사상구청)역"
+ },
+ {
+  "NUM": "882",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "227",
+  "STIN_NM": "사상(서부터미널)역"
+ },
+ {
+  "NUM": "883",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "228",
+  "STIN_NM": "덕포역"
+ },
+ {
+  "NUM": "884",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "229",
+  "STIN_NM": "모덕역"
+ },
+ {
+  "NUM": "885",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "230",
+  "STIN_NM": "모라역"
+ },
+ {
+  "NUM": "886",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "231",
+  "STIN_NM": "구남역"
+ },
+ {
+  "NUM": "887",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "232",
+  "STIN_NM": "구명역"
+ },
+ {
+  "NUM": "888",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "233",
+  "STIN_NM": "덕천(부산과기대)역"
+ },
+ {
+  "NUM": "889",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "234",
+  "STIN_NM": "수정(방송통신대)역"
+ },
+ {
+  "NUM": "890",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "235",
+  "STIN_NM": "화명역"
+ },
+ {
+  "NUM": "891",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "236",
+  "STIN_NM": "율리역"
+ },
+ {
+  "NUM": "892",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "237",
+  "STIN_NM": "동원역"
+ },
+ {
+  "NUM": "893",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "238",
+  "STIN_NM": "금곡역"
+ },
+ {
+  "NUM": "894",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "239",
+  "STIN_NM": "호포역"
+ },
+ {
+  "NUM": "895",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "240",
+  "STIN_NM": "증산역"
+ },
+ {
+  "NUM": "896",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "241",
+  "STIN_NM": "부산대양산캠퍼스역"
+ },
+ {
+  "NUM": "897",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "242",
+  "STIN_NM": "남양산(범어)역"
+ },
+ {
+  "NUM": "898",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "243",
+  "STIN_NM": "양산(시청·동원과학기술대학교)역"
+ },
+ {
+  "NUM": "899",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "301",
+  "STIN_NM": "수영역"
+ },
+ {
+  "NUM": "900",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "302",
+  "STIN_NM": "망미(병무청)역"
+ },
+ {
+  "NUM": "901",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "303",
+  "STIN_NM": "배산역"
+ },
+ {
+  "NUM": "902",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "304",
+  "STIN_NM": "물만골역"
+ },
+ {
+  "NUM": "903",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "305",
+  "STIN_NM": "연산역"
+ },
+ {
+  "NUM": "904",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "306",
+  "STIN_NM": "거제(법원·검찰청)역"
+ },
+ {
+  "NUM": "905",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "307",
+  "STIN_NM": "종합운동장역"
+ },
+ {
+  "NUM": "906",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "308",
+  "STIN_NM": "사직역"
+ },
+ {
+  "NUM": "907",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "309",
+  "STIN_NM": "미남역"
+ },
+ {
+  "NUM": "908",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "310",
+  "STIN_NM": "만덕역"
+ },
+ {
+  "NUM": "909",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "311",
+  "STIN_NM": "남산정(부산폴리텍대학)역"
+ },
+ {
+  "NUM": "910",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "312",
+  "STIN_NM": "숙등(부민병원)역"
+ },
+ {
+  "NUM": "911",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "313",
+  "STIN_NM": "덕천(부산과기대)역"
+ },
+ {
+  "NUM": "912",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "314",
+  "STIN_NM": "구포역"
+ },
+ {
+  "NUM": "913",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "315",
+  "STIN_NM": "강서구청역"
+ },
+ {
+  "NUM": "914",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "316",
+  "STIN_NM": "체육공원역"
+ },
+ {
+  "NUM": "915",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "317",
+  "STIN_NM": "대저역"
+ },
+ {
+  "NUM": "916",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "401",
+  "STIN_NM": "미남역"
+ },
+ {
+  "NUM": "917",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "402",
+  "STIN_NM": "동래역"
+ },
+ {
+  "NUM": "918",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "403",
+  "STIN_NM": "수안역"
+ },
+ {
+  "NUM": "919",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "404",
+  "STIN_NM": "낙민역"
+ },
+ {
+  "NUM": "920",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "405",
+  "STIN_NM": "충렬사(안락)역"
+ },
+ {
+  "NUM": "921",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "406",
+  "STIN_NM": "명장역"
+ },
+ {
+  "NUM": "922",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "407",
+  "STIN_NM": "서동역"
+ },
+ {
+  "NUM": "923",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "408",
+  "STIN_NM": "금사역"
+ },
+ {
+  "NUM": "924",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "409",
+  "STIN_NM": "반여농산물시장역"
+ },
+ {
+  "NUM": "925",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "410",
+  "STIN_NM": "석대역"
+ },
+ {
+  "NUM": "926",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "411",
+  "STIN_NM": "영산대(아랫반송)역"
+ },
+ {
+  "NUM": "927",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "412",
+  "STIN_NM": "윗반송역"
+ },
+ {
+  "NUM": "928",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "413",
+  "STIN_NM": "고촌역"
+ },
+ {
+  "NUM": "929",
+  "RAIL_OPR_ISTT_CD": "BS",
+  "RAIL_OPR_ISTT_NM": "부산교통공사",
+  "LN_CD": "4",
+  "LN_NM": "4호선",
+  "STIN_CD": "414",
+  "STIN_NM": "안평(고촌주택단지)역"
+ },
+ {
+  "NUM": "930",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K110",
+  "STIN_NM": "부전역"
+ },
+ {
+  "NUM": "931",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K111",
+  "STIN_NM": "거제해맞이역"
+ },
+ {
+  "NUM": "932",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K112",
+  "STIN_NM": "거제(법원·검찰청)역"
+ },
+ {
+  "NUM": "933",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K113",
+  "STIN_NM": "교대역"
+ },
+ {
+  "NUM": "934",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K114",
+  "STIN_NM": "동래역"
+ },
+ {
+  "NUM": "935",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K115",
+  "STIN_NM": "안락역"
+ },
+ {
+  "NUM": "936",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K116",
+  "STIN_NM": "부산원동역"
+ },
+ {
+  "NUM": "937",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K117",
+  "STIN_NM": "재송역"
+ },
+ {
+  "NUM": "938",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K118",
+  "STIN_NM": "센텀역"
+ },
+ {
+  "NUM": "939",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K119",
+  "STIN_NM": "벡스코역"
+ },
+ {
+  "NUM": "940",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K120",
+  "STIN_NM": "신해운대역"
+ },
+ {
+  "NUM": "941",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K121",
+  "STIN_NM": "송정역"
+ },
+ {
+  "NUM": "942",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K122",
+  "STIN_NM": "오시리아역"
+ },
+ {
+  "NUM": "943",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K123",
+  "STIN_NM": "기장역"
+ },
+ {
+  "NUM": "944",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K124",
+  "STIN_NM": "일광역"
+ },
+ {
+  "NUM": "945",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K125",
+  "STIN_NM": "좌천역"
+ },
+ {
+  "NUM": "946",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K126",
+  "STIN_NM": "월내역"
+ },
+ {
+  "NUM": "947",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K127",
+  "STIN_NM": "서생역"
+ },
+ {
+  "NUM": "948",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K128",
+  "STIN_NM": "남창역"
+ },
+ {
+  "NUM": "949",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K129",
+  "STIN_NM": "망양역"
+ },
+ {
+  "NUM": "950",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K130",
+  "STIN_NM": "덕하역"
+ },
+ {
+  "NUM": "951",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K131",
+  "STIN_NM": "개운포역"
+ },
+ {
+  "NUM": "952",
+  "RAIL_OPR_ISTT_CD": "KR",
+  "RAIL_OPR_ISTT_NM": "코레일",
+  "LN_CD": "K6",
+  "LN_NM": "동해선",
+  "STIN_CD": "K132",
+  "STIN_NM": "태화강역"
+ },
+ {
+  "NUM": "953",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0115",
+  "STIN_NM": "설화명곡역"
+ },
+ {
+  "NUM": "954",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0116",
+  "STIN_NM": "화원역"
+ },
+ {
+  "NUM": "955",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0117",
+  "STIN_NM": "대곡(정부대구청사)역"
+ },
+ {
+  "NUM": "956",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0118",
+  "STIN_NM": "진천역"
+ },
+ {
+  "NUM": "957",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0119",
+  "STIN_NM": "월배역"
+ },
+ {
+  "NUM": "958",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0120",
+  "STIN_NM": "상인역"
+ },
+ {
+  "NUM": "959",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0121",
+  "STIN_NM": "월촌역"
+ },
+ {
+  "NUM": "960",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0122",
+  "STIN_NM": "송현역"
+ },
+ {
+  "NUM": "961",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0123",
+  "STIN_NM": "서부정류장(관문시장)역"
+ },
+ {
+  "NUM": "962",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0124",
+  "STIN_NM": "대명역"
+ },
+ {
+  "NUM": "963",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0125",
+  "STIN_NM": "안지랑역"
+ },
+ {
+  "NUM": "964",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0126",
+  "STIN_NM": "현충로역"
+ },
+ {
+  "NUM": "965",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0127",
+  "STIN_NM": "영대병원역"
+ },
+ {
+  "NUM": "966",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0128",
+  "STIN_NM": "교대역"
+ },
+ {
+  "NUM": "967",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0129",
+  "STIN_NM": "명덕(2.28민주운동기념회관)역"
+ },
+ {
+  "NUM": "968",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0130",
+  "STIN_NM": "반월당역"
+ },
+ {
+  "NUM": "969",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0132",
+  "STIN_NM": "대구역"
+ },
+ {
+  "NUM": "970",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0133",
+  "STIN_NM": "칠성시장역"
+ },
+ {
+  "NUM": "971",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0134",
+  "STIN_NM": "신천(경북대입구)역"
+ },
+ {
+  "NUM": "972",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0135",
+  "STIN_NM": "동대구역"
+ },
+ {
+  "NUM": "973",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0136",
+  "STIN_NM": "동구청(큰고개)역"
+ },
+ {
+  "NUM": "974",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0137",
+  "STIN_NM": "아양교역"
+ },
+ {
+  "NUM": "975",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0138",
+  "STIN_NM": "동촌역"
+ },
+ {
+  "NUM": "976",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0139",
+  "STIN_NM": "해안역"
+ },
+ {
+  "NUM": "977",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0140",
+  "STIN_NM": "방촌역"
+ },
+ {
+  "NUM": "978",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0141",
+  "STIN_NM": "용계역"
+ },
+ {
+  "NUM": "979",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0142",
+  "STIN_NM": "율하역"
+ },
+ {
+  "NUM": "980",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0143",
+  "STIN_NM": "신기역"
+ },
+ {
+  "NUM": "981",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0144",
+  "STIN_NM": "반야월역"
+ },
+ {
+  "NUM": "982",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0145",
+  "STIN_NM": "각산역"
+ },
+ {
+  "NUM": "983",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0146",
+  "STIN_NM": "안심(혁신도시·첨복단지)역"
+ },
+ {
+  "NUM": "984",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "3140",
+  "STIN_NM": "중앙로역"
+ },
+ {
+  "NUM": "985",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0216",
+  "STIN_NM": "문양역"
+ },
+ {
+  "NUM": "986",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0217",
+  "STIN_NM": "다사역"
+ },
+ {
+  "NUM": "987",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0220",
+  "STIN_NM": "계명대역"
+ },
+ {
+  "NUM": "988",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0221",
+  "STIN_NM": "성서산업단지역"
+ },
+ {
+  "NUM": "989",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0222",
+  "STIN_NM": "이곡역"
+ },
+ {
+  "NUM": "990",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0223",
+  "STIN_NM": "용산(서부법원·검찰청입구)역"
+ },
+ {
+  "NUM": "991",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0224",
+  "STIN_NM": "죽전역"
+ },
+ {
+  "NUM": "992",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0225",
+  "STIN_NM": "감삼역"
+ },
+ {
+  "NUM": "993",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0226",
+  "STIN_NM": "두류역"
+ },
+ {
+  "NUM": "994",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0227",
+  "STIN_NM": "내당역"
+ },
+ {
+  "NUM": "995",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0228",
+  "STIN_NM": "반고개역"
+ },
+ {
+  "NUM": "996",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0229",
+  "STIN_NM": "청라언덕역"
+ },
+ {
+  "NUM": "997",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0230",
+  "STIN_NM": "반월당역"
+ },
+ {
+  "NUM": "998",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0231",
+  "STIN_NM": "경대병원역"
+ },
+ {
+  "NUM": "999",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0232",
+  "STIN_NM": "대구은행역"
+ },
+ {
+  "NUM": "1000",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0233",
+  "STIN_NM": "범어역"
+ },
+ {
+  "NUM": "1001",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0234",
+  "STIN_NM": "수성구청(KBS)역"
+ },
+ {
+  "NUM": "1002",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0235",
+  "STIN_NM": "만촌역"
+ },
+ {
+  "NUM": "1003",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0236",
+  "STIN_NM": "담티(산대·대륜)역"
+ },
+ {
+  "NUM": "1004",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0237",
+  "STIN_NM": "연호역"
+ },
+ {
+  "NUM": "1005",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0238",
+  "STIN_NM": "대공원역"
+ },
+ {
+  "NUM": "1006",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0240",
+  "STIN_NM": "신매역"
+ },
+ {
+  "NUM": "1007",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0241",
+  "STIN_NM": "사월역"
+ },
+ {
+  "NUM": "1008",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0242",
+  "STIN_NM": "정평역"
+ },
+ {
+  "NUM": "1009",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0243",
+  "STIN_NM": "임당역"
+ },
+ {
+  "NUM": "1010",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "0244",
+  "STIN_NM": "영남대역"
+ },
+ {
+  "NUM": "1011",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "218",
+  "STIN_NM": "대실역"
+ },
+ {
+  "NUM": "1012",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "219",
+  "STIN_NM": "강창역"
+ },
+ {
+  "NUM": "1013",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "2",
+  "LN_NM": "2호선",
+  "STIN_CD": "239",
+  "STIN_NM": "고산역"
+ },
+ {
+  "NUM": "1014",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "312",
+  "STIN_NM": "칠곡경대병원역"
+ },
+ {
+  "NUM": "1015",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "313",
+  "STIN_NM": "학정역"
+ },
+ {
+  "NUM": "1016",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "314",
+  "STIN_NM": "팔거(국립농관원·통계청)역"
+ },
+ {
+  "NUM": "1017",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "315",
+  "STIN_NM": "동천역"
+ },
+ {
+  "NUM": "1018",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "316",
+  "STIN_NM": "칠곡운암역"
+ },
+ {
+  "NUM": "1019",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "317",
+  "STIN_NM": "구암역"
+ },
+ {
+  "NUM": "1020",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "318",
+  "STIN_NM": "태전역"
+ },
+ {
+  "NUM": "1021",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "319",
+  "STIN_NM": "매천역"
+ },
+ {
+  "NUM": "1022",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "320",
+  "STIN_NM": "매천시장역"
+ },
+ {
+  "NUM": "1023",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "321",
+  "STIN_NM": "팔달역"
+ },
+ {
+  "NUM": "1024",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "322",
+  "STIN_NM": "공단역"
+ },
+ {
+  "NUM": "1025",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "323",
+  "STIN_NM": "만평역"
+ },
+ {
+  "NUM": "1026",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "324",
+  "STIN_NM": "팔달시장역"
+ },
+ {
+  "NUM": "1027",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "325",
+  "STIN_NM": "원대역"
+ },
+ {
+  "NUM": "1028",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "326",
+  "STIN_NM": "북구청역"
+ },
+ {
+  "NUM": "1029",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "327",
+  "STIN_NM": "달성공원역"
+ },
+ {
+  "NUM": "1030",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "328",
+  "STIN_NM": "서문시장(동산병원)역"
+ },
+ {
+  "NUM": "1031",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "329",
+  "STIN_NM": "청라언덕역"
+ },
+ {
+  "NUM": "1032",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "330",
+  "STIN_NM": "남산역"
+ },
+ {
+  "NUM": "1033",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "331",
+  "STIN_NM": "명덕(2.28민주운동기념회관)역"
+ },
+ {
+  "NUM": "1034",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "332",
+  "STIN_NM": "건들바위역"
+ },
+ {
+  "NUM": "1035",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "333",
+  "STIN_NM": "대봉교역"
+ },
+ {
+  "NUM": "1036",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "334",
+  "STIN_NM": "수성시장역"
+ },
+ {
+  "NUM": "1037",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "335",
+  "STIN_NM": "수성구민운동장역"
+ },
+ {
+  "NUM": "1038",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "336",
+  "STIN_NM": "어린이회관역"
+ },
+ {
+  "NUM": "1039",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "337",
+  "STIN_NM": "황금역"
+ },
+ {
+  "NUM": "1040",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "338",
+  "STIN_NM": "수성못(TBC)역"
+ },
+ {
+  "NUM": "1041",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "339",
+  "STIN_NM": "지산역"
+ },
+ {
+  "NUM": "1042",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "340",
+  "STIN_NM": "범물역"
+ },
+ {
+  "NUM": "1043",
+  "RAIL_OPR_ISTT_CD": "DG",
+  "RAIL_OPR_ISTT_NM": "대구교통공사",
+  "LN_CD": "3",
+  "LN_NM": "3호선",
+  "STIN_CD": "341",
+  "STIN_NM": "용지역"
+ },
+ {
+  "NUM": "1044",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "100",
+  "STIN_NM": "녹동역"
+ },
+ {
+  "NUM": "1045",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "101",
+  "STIN_NM": "소태역"
+ },
+ {
+  "NUM": "1046",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "102",
+  "STIN_NM": "학동증심사입구역"
+ },
+ {
+  "NUM": "1047",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "103",
+  "STIN_NM": "남광주역"
+ },
+ {
+  "NUM": "1048",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "104",
+  "STIN_NM": "문화전당역"
+ },
+ {
+  "NUM": "1049",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "105",
+  "STIN_NM": "금남로4가역"
+ },
+ {
+  "NUM": "1050",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "106",
+  "STIN_NM": "금남로5가역"
+ },
+ {
+  "NUM": "1051",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "107",
+  "STIN_NM": "양동시장역"
+ },
+ {
+  "NUM": "1052",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "108",
+  "STIN_NM": "돌고개역"
+ },
+ {
+  "NUM": "1053",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "109",
+  "STIN_NM": "농성역"
+ },
+ {
+  "NUM": "1054",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "110",
+  "STIN_NM": "화정역"
+ },
+ {
+  "NUM": "1055",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "111",
+  "STIN_NM": "쌍촌역"
+ },
+ {
+  "NUM": "1056",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "112",
+  "STIN_NM": "운천역"
+ },
+ {
+  "NUM": "1057",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "113",
+  "STIN_NM": "상무역"
+ },
+ {
+  "NUM": "1058",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "114",
+  "STIN_NM": "김대중컨벤션센터역"
+ },
+ {
+  "NUM": "1059",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "115",
+  "STIN_NM": "공항역"
+ },
+ {
+  "NUM": "1060",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "116",
+  "STIN_NM": "송정공원역"
+ },
+ {
+  "NUM": "1061",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "117",
+  "STIN_NM": "광주송정역"
+ },
+ {
+  "NUM": "1062",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "118",
+  "STIN_NM": "도산역"
+ },
+ {
+  "NUM": "1063",
+  "RAIL_OPR_ISTT_CD": "GJ",
+  "RAIL_OPR_ISTT_NM": "광주교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "119",
+  "STIN_NM": "평동역"
+ },
+ {
+  "NUM": "1064",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0001",
+  "STIN_NM": "판암(대전대)역"
+ },
+ {
+  "NUM": "1065",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0002",
+  "STIN_NM": "신흥역"
+ },
+ {
+  "NUM": "1066",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0003",
+  "STIN_NM": "대동(우송대)역"
+ },
+ {
+  "NUM": "1067",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0004",
+  "STIN_NM": "대전역"
+ },
+ {
+  "NUM": "1068",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0005",
+  "STIN_NM": "중앙로역"
+ },
+ {
+  "NUM": "1069",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0006",
+  "STIN_NM": "중구청역"
+ },
+ {
+  "NUM": "1070",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0007",
+  "STIN_NM": "서대전네거리역"
+ },
+ {
+  "NUM": "1071",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0008",
+  "STIN_NM": "오룡역"
+ },
+ {
+  "NUM": "1072",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0009",
+  "STIN_NM": "용문역"
+ },
+ {
+  "NUM": "1073",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0010",
+  "STIN_NM": "탄방역"
+ },
+ {
+  "NUM": "1074",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0011",
+  "STIN_NM": "시청역"
+ },
+ {
+  "NUM": "1075",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0012",
+  "STIN_NM": "정부청사역"
+ },
+ {
+  "NUM": "1076",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0013",
+  "STIN_NM": "갈마역"
+ },
+ {
+  "NUM": "1077",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0014",
+  "STIN_NM": "월평(한국과학기술원)역"
+ },
+ {
+  "NUM": "1078",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0015",
+  "STIN_NM": "갑천역"
+ },
+ {
+  "NUM": "1079",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0016",
+  "STIN_NM": "유성온천(충남대·목원대)역"
+ },
+ {
+  "NUM": "1080",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0017",
+  "STIN_NM": "구암역"
+ },
+ {
+  "NUM": "1081",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0018",
+  "STIN_NM": "현충원(한밭대)역"
+ },
+ {
+  "NUM": "1082",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0019",
+  "STIN_NM": "월드컵경기장(노은도매시장)역"
+ },
+ {
+  "NUM": "1083",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0020",
+  "STIN_NM": "노은역"
+ },
+ {
+  "NUM": "1084",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0021",
+  "STIN_NM": "지족(침신대)역"
+ },
+ {
+  "NUM": "1085",
+  "RAIL_OPR_ISTT_CD": "DJ",
+  "RAIL_OPR_ISTT_NM": "대전교통공사",
+  "LN_CD": "1",
+  "LN_NM": "1호선",
+  "STIN_CD": "0022",
+  "STIN_NM": "반석(칠성대)역"
+ },
+ {
+  "NUM": "1086",
+  "RAIL_OPR_ISTT_CD": "GX",
+  "RAIL_OPR_ISTT_NM": "지티엑스에이운영",
+  "LN_CD": "A",
+  "LN_NM": "GTX-A",
+  "STIN_CD": "9007",
+  "STIN_NM": "수서역"
+ },
+ {
+  "NUM": "1087",
+  "RAIL_OPR_ISTT_CD": "GX",
+  "RAIL_OPR_ISTT_NM": "지티엑스에이운영",
+  "LN_CD": "A",
+  "LN_NM": "GTX-A",
+  "STIN_CD": "9008",
+  "STIN_NM": "성남역"
+ },
+ {
+  "NUM": "1088",
+  "RAIL_OPR_ISTT_CD": "SR",
+  "RAIL_OPR_ISTT_NM": "주식회사 SR",
+  "LN_CD": "A",
+  "LN_NM": "GTX-A",
+  "STIN_CD": "9010",
+  "STIN_NM": "동탄역"
+ },
+ {
+  "NUM": "1089",
+  "RAIL_OPR_ISTT_CD": "GX",
+  "RAIL_OPR_ISTT_NM": "지티엑스에이운영",
+  "LN_CD": "A",
+  "LN_NM": "GTX-A",
+  "STIN_CD": "k235",
+  "STIN_NM": "구성역"
+ }
+]
