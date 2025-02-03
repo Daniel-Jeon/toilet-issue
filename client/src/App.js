@@ -46,7 +46,7 @@ const App = () => {
 
       <main className="flex-1 overflow-y-auto mt-6 mb-6 pt-4 px-2">
         <form
-          className="flex h-10 mb-2 items-center"
+          className="flex h-10 mb-2 items-center relative"
           onSubmit={(e) => e.preventDefault()}
         >
           <input
@@ -55,7 +55,6 @@ const App = () => {
             className="flex-1 border rounded-lg p-2 mr-2"
             value={searchValue}
             onChange={handleInputChange}
-            onClick={handleInputChange}
           />
           <img
             src="https://cdn-icons-png.flaticon.com/512/5974/5974916.png"
@@ -66,10 +65,24 @@ const App = () => {
               setFilteredResults([]);
             }}
           />
+
+          {filteredResults.length > 0 && (
+            <ul className="absolute left-0 top-full w-full bg-white border border-gray-300 rounded-lg shadow-lg z-10 max-h-60 overflow-y-auto mt-2">
+              {filteredResults.map((station) => (
+                <li
+                  key={station.NUM}
+                  onClick={() => handleStationClick(station)}
+                  className="p-2 cursor-pointer hover:bg-gray-200"
+                >
+                  {`${station.LN_NM} ${station.STIN_NM}`}
+                </li>
+              ))}
+            </ul>
+          )}
         </form>
 
         {filteredResults.length > 0 && (
-          <ul className="border rounded-lg mt-2 bg-white shadow-lg">
+          <ul className="absolute left-0 top-full w-full bg-white border border-gray-300 rounded-lg shadow-lg z-10 max-h-60 overflow-y-auto">
             {filteredResults.map((station) => (
               <li
                 key={station.NUM}

@@ -24,3 +24,16 @@ yarn-debug.log*
 yarn-error.log*
 
 data.json
+
+# Docker 관련 파일
+Dockerfile
+.dockerignore
+
+# Fly.io 관련 파일
+fly.toml
+
+# 기타 임시 파일 및 배포 빌드 파일
+node_modules/
+dist/
+build/
+
