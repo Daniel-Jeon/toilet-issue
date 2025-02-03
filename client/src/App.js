@@ -98,11 +98,11 @@ const App = () => {
         {toiletData.length > 0 && (
           <>
             <div>
-              {toiletData.map((data, index) => (
-                <ul key={index}>
-                  <li>{data.dtlLoc}</li>
-                </ul>
-              ))}
+              <ul>
+                {toiletData.map((data, i) => (
+                  <li key={i}>{data.dtlLoc}</li>
+                ))}
+              </ul>
             </div>
           </>
         )}
