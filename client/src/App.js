@@ -100,7 +100,7 @@ const App = () => {
             <div>
               {toiletData.map((data, index) => (
                 <ul key={index}>
-                  <li>{data[index].dtlLoc}</li>
+                  <li>{data.dtlLoc}</li>
                 </ul>
               ))}
             </div>
