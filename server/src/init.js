@@ -21,7 +21,6 @@ app.get("/api", async (req, res) => {
       },
       timeout: 10000,
     });
-    console.log("외부 API 응답:", response.data);
     return res.status(200).json(response.data.body);
   } catch (error) {
     console.error("외부 API 호출 실패:", error.message);
