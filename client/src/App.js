@@ -9,15 +9,18 @@ import code from "./code.json";
 const App = () => {
   const [searchValue, setSearchValue] = useState("");
   const [filteredResults, setFilteredResults] = useState([]);
-  const [toiletData, setToiletData] = useState([]);
+  const [nData, setNData] = useState([]);
+  const [dData, setDData] = useState([]);
 
   const handleInputChange = (event) => {
     const value = event.target.value.trim();
     setSearchValue(value);
-    if (value && value.length >= 2) {
-      const results = code.filter((station) =>
-        new RegExp(`${value}(역)?`, "i").test(station.STIN_NM)
-      );
+
+    if (value) {
+      const escapedValue = value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+      const regex = new RegExp(`${escapedValue}(역)?`, "i");
+
+      const results = code.filter((station) => regex.test(station.STIN_NM));
       setFilteredResults(results);
     } else {
       setFilteredResults([]);
@@ -28,18 +31,24 @@ const App = () => {
     console.log("선택한 역:", station);
     setSearchValue(station.STIN_NM);
     setFilteredResults([]);
-    const response = await axios(process.env.REACT_APP_SERVER_URL + "/api", {
-      method: "get",
-      params: {
-        railOprIsttCd: station.RAIL_OPR_ISTT_CD,
-        lnCd: station.LN_CD,
-        stinCd: station.STIN_CD,
-      },
-    });
-    console.log("res:", response.data);
-    setToiletData(response.data);
+    const params = {
+      format: "json",
+      railOprIsttCd: station.RAIL_OPR_ISTT_CD,
+      lnCd: station.LN_CD,
+      stinCd: station.STIN_CD,
+    };
+    try {
+      const response = await axios.get(process.env.REACT_APP_SERVER_URL, {
+        params,
+        timeout: 10000,
+      });
+      console.log(response.data);
+      setDData(response.data.dData);
+      setNData(response.data.nData);
+    } catch (err) {
+      console.error(err);
+    }
   };
-
   return (
     <div className="h-screen flex flex-col">
       <Header />
@@ -93,18 +102,6 @@ const App = () => {
               </li>
             ))}
           </ul>
-        )}
-
-        {toiletData.length > 0 && (
-          <>
-            <div>
-              <ul>
-                {toiletData.map((data, i) => (
-                  <li key={i}>{data.dtlLoc}</li>
-                ))}
-              </ul>
-            </div>
-          </>
         )}
       </main>
 

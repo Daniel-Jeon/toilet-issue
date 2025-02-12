@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/init.js",
   "scripts": {
-    "start": "nodemon --exec babel-node src/init.js"
+    "start": "nodemon --exec babel-node --max-http-header-size=1000000 src/init.js"
   },
   "devDependencies": {
     "@babel/core": "^7.26.0",
